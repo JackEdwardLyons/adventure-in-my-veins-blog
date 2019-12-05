@@ -1,12 +1,18 @@
 <template>
   <Layout>
+    <header class="header">
+      <div class="header__left">
+        <Logo />
+      </div>
+
+      <div class="header__right">
+        <ToggleTheme />
+      </div>
+    </header>
     <div class="post-title">
-      <h1 class="post-title__text">
-        {{ $page.post.title }}
-      </h1>
+      <h1 class="post-title__text">{{ $page.post.title }}</h1>
 
       <PostMeta :post="$page.post" />
-
     </div>
 
     <div class="post content-box">
@@ -30,28 +36,32 @@
 </template>
 
 <script>
-import PostMeta from '~/components/PostMeta'
-import PostTags from '~/components/PostTags'
-import Author from '~/components/Author.vue'
+import PostMeta from "~/components/PostMeta";
+import PostTags from "~/components/PostTags";
+import Author from "~/components/Author.vue";
+import Logo from "~/components/Logo.vue";
+import ToggleTheme from "~/components/ToggleTheme.vue";
 
 export default {
   components: {
     Author,
     PostMeta,
-    PostTags
+    PostTags,
+    Logo,
+    ToggleTheme
   },
-  metaInfo () {
+  metaInfo() {
     return {
       title: this.$page.post.title,
       meta: [
         {
-          name: 'description',
+          name: "description",
           content: this.$page.post.description
         }
       ]
-    }
+    };
   }
-}
+};
 </script>
 
 <page-query>
@@ -80,7 +90,6 @@ query Post ($id: ID!) {
 }
 
 .post {
-
   &__header {
     width: calc(100% + var(--space) * 2);
     margin-left: calc(var(--space) * -1);
