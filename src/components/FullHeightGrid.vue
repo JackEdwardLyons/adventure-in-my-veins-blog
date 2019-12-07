@@ -10,8 +10,8 @@
         :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
       >
         <div class="post-container">
-          <h4>{{ post.node.title }}</h4>
           <p class="post-date">{{ post.node.date }}</p>
+          <h2 class="post-title">{{ post.node.title }}</h2>
         </div>
       </g-link>
     </div>
@@ -39,7 +39,23 @@ export default {
   justify-content: center;
   align-items: center;
   padding: 1rem;
-  border: 1px solid grey;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.post-container {
+  * {
+    color: #fff;
+    text-align: center;
+  }
+
+  .post-date {
+    margin: 0;
+  }
+
+  .post-title {
+    margin: 0rem auto;
+    padding: 1rem 0;
+  }
 }
 
 .grid-container {
@@ -51,10 +67,6 @@ export default {
   .grid-item {
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
     transition: 0.8s ease;
-  }
-
-  .post-container * {
-    color: #fff;
   }
 }
 
