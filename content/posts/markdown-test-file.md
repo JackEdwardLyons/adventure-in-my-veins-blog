@@ -3,7 +3,6 @@ title: Markdown test file
 date: 2019-02-06T00:00:00.000Z
 published: true
 tags:
-  - Markdown
   - Test files
   - featured
 cover_image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
