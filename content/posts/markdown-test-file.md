@@ -5,6 +5,7 @@ published: true
 tags:
   - Markdown
   - Test files
+  - featured
 cover_image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
 description: >-
   Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
