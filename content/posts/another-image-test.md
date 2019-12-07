@@ -5,7 +5,7 @@ published: true
 tags:
   - markdown
   - image
-  - test
+  - featured
 cover_image: /images/uploads/sun-3713835_1920.jpg
 description: I am trying some image uploads.
 ---
