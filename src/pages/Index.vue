@@ -55,13 +55,11 @@ export default {
   },
   computed: {
     featuredPosts() {
-      return this.$page.posts.edges.filter(edge => {
-        return edge.node.tags.some(tag => tag.title.toLowerCase().includes('markdown'))
+      const featuredPosts = this.$page.posts.edges.filter(edge => {
+        return edge.node.tags.some(tag => tag.title.toLowerCase().includes('featured'))
       })
-      
-      //slice(0, 3);
-      
-      // .map(edge => edge.tags.some(tag => tag.title.toLowerCase().includes('featured')))
+      // to be sure we always just get the top 3 posts
+      return featuredPosts.slice(0, 3);
     }
   }
 };

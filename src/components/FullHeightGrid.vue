@@ -1,18 +1,19 @@
 <template>
   <section class="vh-full">
     <div class="grid-container">
-      <article
+      <g-link
+        :to="post.node.path"
         v-for="(post, index) in posts"
         :key="post.node.id"
-        class="flex-center"
+        class="flex-center grid-item post-link"
         :class="'grid-item-' + (index + 1)"
-        :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover' }"
+        :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
       >
-        <div class="container">
+        <div class="post-container">
           <h4>{{ post.node.title }}</h4>
           <p class="post-date">{{ post.node.date }}</p>
         </div>
-      </article>
+      </g-link>
     </div>
   </section>
 </template>
@@ -28,6 +29,11 @@ export default {
   height: 100vh;
 }
 
+.post-link {
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .flex-center {
   display: flex;
   justify-content: center;
@@ -41,6 +47,15 @@ export default {
   grid-template-columns: 1fr;
   grid-template-rows: repeat(3, 1fr);
   height: 100%;
+
+  .grid-item {
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+    transition: 0.8s ease;
+  }
+
+  .post-container * {
+    color: #fff;
+  }
 }
 
 @media screen and (min-width: 769px) {
