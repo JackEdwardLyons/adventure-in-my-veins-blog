@@ -6,7 +6,7 @@ tags:
   - Markdown
   - Releases
   - featured
-cover_image: /images/uploads/kiz9hdwunw0.jpg
+cover_image: /images/uploads/hu-chen-fz0qzjvf_-c-unsplash.jpg
 description: >-
   A new static site generator baby is born. It's highly inspired by Gatsby.js
   (React based) but built on top of Vue.js. We have been working on it for a
