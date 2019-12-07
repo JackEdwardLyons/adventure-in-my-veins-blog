@@ -5,6 +5,7 @@ published: true
 tags:
   - Markdown
   - Releases
+  - featured
 cover_image: /images/uploads/kiz9hdwunw0.jpg
 description: >-
   A new static site generator baby is born. It's highly inspired by Gatsby.js
