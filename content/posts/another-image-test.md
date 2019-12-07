@@ -7,6 +7,6 @@ tags:
   - image
   - featured
 cover_image: /images/uploads/sun-3713835_1920.jpg
-description: I am trying some image uploads.
+description: I am trying some image uploads but need more practice with this new app.
 ---
 And I also write something down.
