@@ -23,9 +23,9 @@ query {
         description
         cover_image (width: 770, height: 380, blur: 10)
         ...on Post {
-        id
-        title
-        path
+          id
+          title
+          path
         }
         path
         tags {
@@ -55,7 +55,13 @@ export default {
   },
   computed: {
     featuredPosts() {
-      return this.$page.posts.edges.slice(0, 3);
+      return this.$page.posts.edges.filter(edge => {
+        return edge.node.tags.some(tag => tag.title.toLowerCase().includes('markdown'))
+      })
+      
+      //slice(0, 3);
+      
+      // .map(edge => edge.tags.some(tag => tag.title.toLowerCase().includes('featured')))
     }
   }
 };

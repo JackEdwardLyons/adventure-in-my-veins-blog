@@ -5,7 +5,8 @@
         v-for="(post, index) in posts"
         :key="post.node.id"
         class="flex-center"
-        :class="'div' + (index)"
+        :class="'grid-item-' + (index + 1)"
+        :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover' }"
       >
         <div class="container">
           <h4>{{ post.node.title }}</h4>
@@ -61,13 +62,13 @@ export default {
 
     // Short-shorthand for grid-row-start + grid-column-start
     // + grid-row-end + grid-column-end:
-    .div0 {
+    .grid-item-1 {
       grid-area: 1 / 1 / 3 / 2;
     }
-    .div1 {
+    .grid-item-2 {
       grid-area: 1 / 2 / 2 / 3;
     }
-    .div2 {
+    .grid-item-3 {
       grid-area: 2 / 2 / 3 / 3;
     }
   }
