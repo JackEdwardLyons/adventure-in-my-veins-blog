@@ -57,7 +57,7 @@ export default {
 
   @media screen and (min-width: 1300px) {
     //Make header sticky for large screens
-    position: sticky;
+    // position: sticky;
     width: 100%;
   }
 }
