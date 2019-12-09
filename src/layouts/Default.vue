@@ -9,7 +9,7 @@
         <g-image
           alt="AIMV logo"
           src="https://codex-themes.com/thegem/sites/travel-blog/wp-content/uploads/2019/05/35.png"
-        ></g-image>
+        />
         <p class="text-center">Built with &hearts; by Jack Lyons.</p>
       </span>
     </footer>
@@ -17,14 +17,9 @@
 </template>
 
 <script>
-import Author from "~/components/Author.vue";
-
 export default {
   props: {
     showLogo: { default: true }
-  },
-  components: {
-    Author
   }
 };
 </script>
@@ -46,15 +41,12 @@ export default {
   }
 
   @media screen and (min-width: 1300px) {
-    //Make header sticky for large screens
-    // position: sticky;
     width: 100%;
   }
 }
 
 .main {
   margin: 0 auto;
-  // padding: 1.5vw 15px 0;
   position: relative;
 }
 

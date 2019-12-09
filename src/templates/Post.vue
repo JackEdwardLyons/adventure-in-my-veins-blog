@@ -9,9 +9,9 @@
         <ToggleTheme />
       </div>
     </header>
+    
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
-
       <PostMeta :post="$page.post" />
     </div>
 

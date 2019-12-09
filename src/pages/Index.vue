@@ -1,6 +1,10 @@
 <template>
   <Layout :show-logo="false">
     <full-height-grid :posts="featuredPosts" />
+    <!-- About the blog -->
+    <about-the-blog />
+
+    <!-- More posts with tags -->
   </Layout>
 </template>
 
@@ -34,10 +38,12 @@ query {
 
 <script>
 import FullHeightGrid from "~/components/FullHeightGrid.vue";
+import AboutTheBlog from '~/components/AboutTheBlog.vue';
 
 export default {
   components: {
-    FullHeightGrid
+    FullHeightGrid,
+    AboutTheBlog
   },
   metaInfo: {
     title: "Home"

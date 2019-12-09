@@ -8,57 +8,28 @@
           mountain lovers who want to build a location independent lifestyle.
         </p>
       </div>
+
       <g-link
         :to="post.node.path"
         v-for="(post, index) in posts"
         :key="post.node.id"
-        class="flex-center grid-item post-link"
+        class="grid-item-center grid-item post-link"
         :class="'grid-item-' + (index + 1)"
         :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
       >
-        <div class="post-container">
-          <div class="post-meta">
-            <div class="post-read-time">
-              <clock-icon />
-              <span> {{ post.node.timeToRead }} min read.</span>
-            </div>
-            <span class="post-date">{{ simpleDate(post.node.date) }}</span>
-          </div>
-          <h2 class="post-title">{{ post.node.title }}</h2>
-          <hr class="post-title-divider" />
-          <p class="post-description">{{ truncated(post.node.description) }}</p>
-        </div>
+        <single-grid-post :post="post" />
       </g-link>
     </div>
   </section>
 </template>
 
 <script>
-import ClockIcon from "~/assets/icons/clock-icon.svg";
+import SingleGridPost from "~/components/SingleGridPost.vue";
 
 export default {
   props: ["posts"],
   components: {
-    ClockIcon
-  },
-  computed: {
-    simpleDate() {
-      return date => {
-        // => October 2019
-        return date
-          .split(" ")
-          .slice(1)
-          .join(" ");
-      };
-    },
-    truncated() {
-      return desc => {
-        const MAX_CHARS = 140;
-        return desc.length > MAX_CHARS
-          ? desc.slice(0, MAX_CHARS) + " ..."
-          : desc;
-      };
-    }
+    SingleGridPost
   }
 };
 </script>
@@ -73,55 +44,12 @@ export default {
   text-decoration: none;
 }
 
-.flex-center {
+.grid-item-center {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1rem;
   border: 1px solid rgba(0, 0, 0, 0.5);
-}
-
-.post-container {
-  * {
-    color: #fff;
-    text-align: center;
-  }
-
-  .post-meta {
-    display: flex;
-    justify-content: space-between;
-    width: 200px;
-    font-size: 70%;
-    margin: 0 auto;
-  }
-
-  .post-date {
-    margin: 0;
-    font-size: 90%;
-  }
-
-  .post-description {
-    display: none;
-    max-width: 80%;
-    margin: 0 auto 0.5rem auto;
-    font-size: 90%;
-    color: #fcfaf5;
-  }
-
-  .post-title-divider {
-    width: 50%;
-    margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
-    border: 0.5px solid rgba(255, 255, 255, 0.4);
-    display: none;
-  }
-
-  .post-title {
-    margin: 0rem auto;
-    padding: 0.5rem 0;
-    font-size: 1.25rem;
-  }
 }
 
 .grid-container {
@@ -164,21 +92,6 @@ export default {
     color: #fff;
     font-size: 70%;
     display: block;
-  }
-
-  .post-container {
-    .post-description {
-      display: block;
-    }
-    .post-meta {
-      width: 300px;
-    }
-    .post-title-divider {
-      display: block;
-    }
-    .post-title {
-      font-size: 1.8rem;
-    }
   }
 
   .grid-container {
