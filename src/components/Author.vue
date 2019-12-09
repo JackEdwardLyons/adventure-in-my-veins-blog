@@ -3,7 +3,7 @@
     <h1 v-if="showTitle" class="author__site-title">{{ $static.metadata.siteName }}</h1>
 
     <p class="author__intro">
-      A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+      A simple, hackable &amp; minimalistic starter for Gridsome that uses Netlify CMS for content.
     </p>
 
     <p class="author__links">

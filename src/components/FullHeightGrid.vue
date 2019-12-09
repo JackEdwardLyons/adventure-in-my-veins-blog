@@ -90,7 +90,8 @@ export default {
   .post-meta {
     display: flex;
     justify-content: space-between;
-    max-width: 60%;
+    width: 200px;
+    font-size: 70%;
     margin: 0 auto;
   }
 
@@ -100,6 +101,7 @@ export default {
   }
 
   .post-description {
+    display: none;
     max-width: 80%;
     margin: 0 auto 0.5rem auto;
     font-size: 90%;
@@ -112,12 +114,13 @@ export default {
     margin-left: auto;
     margin-right: auto;
     border: 0.5px solid rgba(255, 255, 255, 0.4);
+    display: none;
   }
 
   .post-title {
     margin: 0rem auto;
     padding: 0.5rem 0;
-    font-size: 1.8rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -161,6 +164,21 @@ export default {
     color: #fff;
     font-size: 70%;
     display: block;
+  }
+
+  .post-container {
+    .post-description {
+      display: block;
+    }
+    .post-meta {
+      width: 300px;
+    }
+    .post-title-divider {
+      display: block;
+    }
+    .post-title {
+      font-size: 1.8rem;
+    }
   }
 
   .grid-container {

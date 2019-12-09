@@ -1,8 +1,6 @@
 <template>
   <Layout :show-logo="false">
     <full-height-grid :posts="featuredPosts" />
-    <!-- Author intro -->
-    <Author :show-title="true" />
   </Layout>
 </template>
 
@@ -35,12 +33,10 @@ query {
 </page-query>
 
 <script>
-import Author from "~/components/Author.vue";
 import FullHeightGrid from "~/components/FullHeightGrid.vue";
 
 export default {
   components: {
-    Author,
     FullHeightGrid
   },
   metaInfo: {

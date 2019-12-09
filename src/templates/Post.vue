@@ -30,21 +30,17 @@
     <div class="post-comments">
       <!-- Add comment widgets here -->
     </div>
-
-    <Author class="post-author" />
   </Layout>
 </template>
 
 <script>
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-import Author from "~/components/Author.vue";
 import Logo from "~/components/Logo.vue";
 import ToggleTheme from "~/components/ToggleTheme.vue";
 
 export default {
   components: {
-    Author,
     PostMeta,
     PostTags,
     Logo,
