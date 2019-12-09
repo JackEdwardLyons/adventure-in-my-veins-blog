@@ -1,40 +1,24 @@
 <template>
   <div id="app">
-    <!-- <header class="header">
-      <div class="header__left">
-        <Logo v-if="showLogo" />
-      </div>
-
-      <div class="header__right">
-        <ToggleTheme />
-      </div>
-    </header>-->
-
     <main class="main">
       <slot />
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}.</span>
-      <span class="footer__links">
-        Powered by
-        <a href="//www.suits.at">SUITS</a>
+      <span class="footer__logo">
+        <g-image alt="AIMV logo" src="https://codex-themes.com/thegem/sites/travel-blog/wp-content/uploads/2019/05/35.png"></g-image>
+        <p class="text-center">
+          Built with &hearts; by Jack Lyons.
+        </p>
       </span>
     </footer>
   </div>
 </template>
 
 <script>
-// import Logo from "~/components/Logo.vue";
-// import ToggleTheme from "~/components/ToggleTheme.vue";
-
 export default {
   props: {
     showLogo: { default: true }
-  },
-  components: {
-    // Logo,
-    // ToggleTheme
   }
 };
 </script>
@@ -74,14 +58,16 @@ export default {
   justify-content: center;
   padding: calc(var(--space) / 2);
   text-align: center;
-  font-size: 0.8em;
+  position: relative;
+  background-image: url('https://codex-themes.com/thegem/sites/travel-blog/wp-content/uploads/2019/05/34-1.jpg');
+  background-size: cover;
+  min-height: 1000px;
 
-  > span {
-    margin: 0 0.35em;
-  }
-
-  a {
-    color: currentColor;
+  &__logo {
+    max-width: 250px;
+    position: absolute;
+    bottom: 2rem;
+    color: white;
   }
 }
 </style>
