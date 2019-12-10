@@ -2,9 +2,10 @@
   <section class="about-the-blog flex-grid">
       <div class="column">
           <h2 class="rock-salt">
-              Meet the Digital Dirtbag ... 
+              Adventure In My Veins ... 
           </h2>
           <p>
+              Or whatever it's going to be called ...
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
           </p>
           <p>
