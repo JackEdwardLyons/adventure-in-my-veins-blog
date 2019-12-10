@@ -13,7 +13,7 @@
         :to="post.node.path"
         v-for="(post, index) in posts"
         :key="post.node.id"
-        class="grid-item-center grid-item post-link"
+        class="grid-item-center box-shadow-effect post-link"
         :class="'grid-item-' + (index + 1)"
         :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
       >
@@ -49,11 +49,6 @@ export default {
   grid-template-rows: repeat(3, 1fr);
   height: 100%;
   position: relative;
-
-  .grid-item {
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.5);
-    transition: 0.8s ease;
-  }
 
   .logo {
     position: absolute;

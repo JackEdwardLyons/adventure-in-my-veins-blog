@@ -27,6 +27,11 @@ export default {
       type: Boolean,
       required: false,
       default: true
+    },
+    maxChars: {
+      type: Number,
+      default: 140,
+      required: false
     }
   },
   components: {
@@ -44,7 +49,7 @@ export default {
     },
     truncated() {
       return desc => {
-        const MAX_CHARS = 140;
+        const MAX_CHARS = this.maxChars;
         return desc.length > MAX_CHARS
           ? desc.slice(0, MAX_CHARS) + " ..."
           : desc;
