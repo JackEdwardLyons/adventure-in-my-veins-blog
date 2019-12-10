@@ -3,7 +3,7 @@
     <div class="post-meta">
       <div class="post-read-time">
         <clock-icon />
-        <span>{{ post.node.timeToRead }} min read.</span>
+        <span style="padding-left: 5px;">{{ post.node.timeToRead }} min read.</span>
       </div>
       <span class="post-date">{{ simpleDate(post.node.date) }}</span>
     </div>

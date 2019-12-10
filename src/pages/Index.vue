@@ -1,6 +1,8 @@
 <template>
   <Layout :show-logo="false">
     <full-height-grid :posts="featuredPosts" />
+
+    <three-post-grid :posts="nonFeaturedPosts" />
     <!-- About the blog -->
     <about-the-blog />
 
@@ -37,11 +39,13 @@ query {
 </page-query>
 
 <script>
+import ThreePostGrid from "~/components/ThreePostGrid.vue";
 import FullHeightGrid from "~/components/FullHeightGrid.vue";
-import AboutTheBlog from '~/components/AboutTheBlog.vue';
+import AboutTheBlog from "~/components/AboutTheBlog.vue";
 
 export default {
   components: {
+    ThreePostGrid,
     FullHeightGrid,
     AboutTheBlog
   },
@@ -57,6 +61,14 @@ export default {
       });
       // to be sure we always just get the top 3 posts
       return featuredPosts.slice(0, 3);
+    },
+    nonFeaturedPosts() {
+      const nonFeaturedPosts = this.$page.posts.edges.filter(edge => {
+        return edge.node.tags.every(tag => {
+          return !tag.title.toLowerCase().includes("featured");
+        });
+      });
+      return nonFeaturedPosts
     }
   }
 };

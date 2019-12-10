@@ -3,7 +3,7 @@
     Posted {{ post.date }}.
     <template v-if="post.timeToRead">
       <clock-icon />
-      <strong> {{ post.timeToRead }} min read.</strong>
+      <strong style="padding-left: 5px;">{{ post.timeToRead }} min read.</strong>
     </template>
   </div>
 </template>

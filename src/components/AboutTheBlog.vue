@@ -1,8 +1,8 @@
 <template>
-  <section class="about-the-blog grid">
+  <section class="about-the-blog grid ">
       <div class="column">
-          <h2>
-              WE WANT TO HELP YOU TO TRAVEL BETTER!
+          <h2 class="rock-salt">
+              Meet the Digital Dirtbag ... 
           </h2>
           <p>
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
