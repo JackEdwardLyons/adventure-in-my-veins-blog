@@ -23,6 +23,13 @@ module.exports = {
 
   plugins: [
     {
+      use: '@zefman/gridsome-source-instagram',
+      options: {
+        username: 'adventureinmyveins', // Instagram username
+        typeName: 'InstagramPhoto' // The GraphQL type you want the photos to be added under. Defaults to InstagramPhoto
+      }
+    },
+    {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
