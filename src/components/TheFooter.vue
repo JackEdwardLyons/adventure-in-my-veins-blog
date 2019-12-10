@@ -40,15 +40,13 @@
   }
 }
 
-@media screen and (min-width: 769px) {
-  .footer {
+.footer {
+  @media screen and (min-width: 769px) {
     min-height: 700px;
   }
-}
 
-// Match the outer page bg color
-@media screen and (min-width: 860px) {
-  .footer {
+  // Match the outer page bg color
+  @media screen and (min-width: 860px) {
     background-image: linear-gradient(
         to top,
         rgba(255, 153, 153, 0) 0%,
@@ -58,7 +56,6 @@
       var(--footer-bg);
   }
 }
-
 // Light mode fade in
 body[data-theme="light"] {
   .footer {

@@ -56,6 +56,10 @@ export default {
 .overlap-on-footer {
   padding-top: 3rem;
   z-index: 100;
-  background: var(--bg-color);
+  background: var(--bg-content-color);
+
+  @media screen and (min-width: 769px) {
+    background: var(--bg-color);
+  }
 }
 </style>

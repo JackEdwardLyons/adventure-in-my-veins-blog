@@ -43,6 +43,7 @@ export default {
 .about-the-blog {
     padding: 1rem 1rem 2rem;
     background-color: var(--bg-content-color);
+    flex-direction: column;
 
     .column {
         margin: 2rem 0;
@@ -53,6 +54,7 @@ export default {
     .about-the-blog {
         padding: 2rem;
         background-color: var(--bg-color);
+        flex-direction: row;
 
         .column {
             margin: 2rem;

@@ -1,7 +1,11 @@
 <template>
   <section class="instagram-feed flex-grid thirds justify-center">
     <!-- <h1>Instagram Photos</h1> -->
-    <div v-for="edge in topFivePosts($static.photos.edges)" :key="edge.node.id" class="column instagram-post ">
+    <div
+      v-for="edge in topFivePosts($static.photos.edges)"
+      :key="edge.node.id"
+      class="column instagram-post"
+    >
       <a :href="'https://instagram.com/p/' + edge.node.shortcode" target="_blank" rel="noopener">
         <g-image
           :src="edge.node.display_url"
@@ -36,23 +40,26 @@ query {
 
 <script>
 export default {
-    computed: {
-        topFivePosts () {
-            return (posts) => posts.slice(0, 5);
-        }
+  computed: {
+    topFivePosts() {
+      return posts => posts.slice(0, 5);
     }
+  }
 };
 </script>
 
 <style lang="scss" scoped>
 .instagram-feed {
-    background: var(--bg-color);
-    // max-width: 800px;
-    .instagram-post {
-        max-width: 200px;
-        margin: 1rem;
-        height: 100%;
-    }
+  background: var(--bg-content-color);
 
+  @media screen and (min-width: 769px) {
+    background: var(--bg-color);
+  }
+
+  .instagram-post {
+    max-width: 200px;
+    margin: 1rem;
+    height: 100%;
+  }
 }
 </style>
