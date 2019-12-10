@@ -1,14 +1,6 @@
 <template>
   <Layout>
-    <header class="header">
-      <div class="header__left">
-        <Logo />
-      </div>
-
-      <div class="header__right">
-        <ToggleTheme />
-      </div>
-    </header>
+    <the-header />
     
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
@@ -22,8 +14,13 @@
 
       <div class="post__content" v-html="$page.post.content" />
 
+
       <div class="post__footer">
         <PostTags :post="$page.post" />
+      </div>
+
+      <div class="signup-area">
+        <mailchimp-form />
       </div>
     </div>
 
@@ -36,15 +33,15 @@
 <script>
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-import Logo from "~/components/Logo.vue";
-import ToggleTheme from "~/components/ToggleTheme.vue";
+import TheHeader from '~/components/TheHeader';
+import MailchimpForm from '~/components/MailchimpForm';
 
 export default {
   components: {
     PostMeta,
     PostTags,
-    Logo,
-    ToggleTheme
+    TheHeader,
+    MailchimpForm
   },
   metaInfo() {
     return {
@@ -132,5 +129,10 @@ query Post ($id: ID!) {
 
 .post-author {
   margin-top: calc(var(--space) / 2);
+}
+
+.signup-area {
+  margin-top: 3rem;
+  border-top: 1px solid lightgrey;
 }
 </style>

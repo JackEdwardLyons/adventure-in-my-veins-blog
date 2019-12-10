@@ -1,6 +1,6 @@
 <template>
   <g-link class="logo" to="/">
-    <span class="logo__text">&larr; Back to Home</span>
+    <span class="logo__text">&larr; Go Back</span>
   </g-link>
 </template>
 

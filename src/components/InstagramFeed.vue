@@ -2,7 +2,7 @@
   <section class="instagram-feed flex-grid thirds justify-center">
     <!-- <h1>Instagram Photos</h1> -->
     <div
-      v-for="edge in topFivePosts($static.photos.edges)"
+      v-for="(edge) in topPosts($static.photos.edges, 4)"
       :key="edge.node.id"
       class="column instagram-post"
     >
@@ -41,8 +41,8 @@ query {
 <script>
 export default {
   computed: {
-    topFivePosts() {
-      return posts => posts.slice(0, 5);
+    topPosts () {
+      return (posts, numPosts) => posts.slice(0, numPosts);
     }
   }
 };
