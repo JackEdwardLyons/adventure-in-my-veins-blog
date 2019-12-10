@@ -54,7 +54,7 @@ export default {
 }
 
 .overlap-on-footer {
-  padding-top: 3rem;
+  padding-top: 1rem;
   z-index: 100;
   background: var(--bg-content-color);
 
