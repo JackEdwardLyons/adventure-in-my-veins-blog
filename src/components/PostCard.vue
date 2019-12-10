@@ -23,6 +23,7 @@
 <script>
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
+import MailchimpForm from '~/components/MailchimpForm';
 
 export default {
   components: {

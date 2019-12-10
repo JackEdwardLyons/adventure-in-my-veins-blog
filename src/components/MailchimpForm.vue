@@ -13,7 +13,7 @@
       >
         <p class="text-center">
           For those who want to
-        <span class="typing"></span>
+          <span class="typing"></span>
         </p>
       </vue-typed-js>
     </div>
@@ -64,10 +64,10 @@ export default {
     typedStrings () {
       return [
         'read more digital dirtbag posts ⛰.',
-        'become a BETA user for my web projects 🎮.',
+        'become a BETA user for my apps and web projects 🎮.',
         'join a global community of climbers 💪.',
         'climb by day and code by night 🖥.', 
-        'learn how to become location independent 🌎!'
+        'learn how to become location independent 🌎.'
       ]
     }
   },
@@ -87,7 +87,7 @@ $white: #ffffff !default;
 $brandColor: #5c97bf;
 
 .centered {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
 }
 

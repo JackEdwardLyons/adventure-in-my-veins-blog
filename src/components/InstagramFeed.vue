@@ -6,13 +6,13 @@
       :key="edge.node.id"
       class="column instagram-post"
     >
-      <a :href="'https://instagram.com/p/' + edge.node.shortcode" target="_blank" rel="noopener">
+      <g-link :href="'https://instagram.com/p/' + edge.node.shortcode" target="_blank" rel="noopener">
         <g-image
           :src="edge.node.display_url"
           :alt="'Instagram Photo: ' + edge.node.edge_media_to_caption.edges[0].node.text"
           class="photo shadow-lg"
         />
-      </a>
+      </g-link>
     </div>
   </section>
 </template>
