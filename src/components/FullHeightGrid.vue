@@ -16,6 +16,7 @@
         class="grid-item-center box-shadow-effect post-link"
         :class="'grid-item-' + (index + 1)"
         :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
+        :aria-label="`Click to view '${post.node.title}'`"
       >
         <single-grid-post :post="post" />
       </g-link>

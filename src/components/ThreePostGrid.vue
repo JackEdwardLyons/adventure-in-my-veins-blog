@@ -6,6 +6,7 @@
       :key="post.node.id"
       class="post-link column box-shadow-effect"
       :style="{ background: `url(${post.node.cover_image}) repeat scroll 0% 0% / cover` }"
+      :aria-label="`Click to view '${post.node.title}'`"
     >
       <single-grid-post :post="post" :max-chars="60" />
     </g-link>
