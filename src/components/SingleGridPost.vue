@@ -9,7 +9,7 @@
     </div>
     <h2 class="post-title">{{ post.node.title }}</h2>
     <hr class="post-title-divider" />
-    <p class="post-description">{{ truncated(post.node.description) }}</p>
+    <p v-if="showDesc" class="post-description">{{ truncated(post.node.description) }}</p>
   </article>
 </template>
 
@@ -17,7 +17,18 @@
 import ClockIcon from "~/assets/icons/clock-icon.svg";
 
 export default {
-  props: ["post"],
+  props: {
+    post: {
+      type: Object,
+      required: true,
+      default: () => ({})
+    },
+    showDesc: {
+      type: Boolean,
+      required: false,
+      default: true
+    }
+  },
   components: {
     ClockIcon
   },
@@ -45,6 +56,9 @@ export default {
 
 <style lang="scss">
 .post-container {
+  padding: 1rem;
+
+  
   * {
     color: #fff;
     text-align: center;
@@ -69,6 +83,7 @@ export default {
     margin: 0 auto 0.5rem auto;
     font-size: 90%;
     color: #fcfaf5;
+    opacity: 0.8;
   }
 
   .post-title-divider {

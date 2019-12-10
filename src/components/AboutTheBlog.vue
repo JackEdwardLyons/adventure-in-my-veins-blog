@@ -1,5 +1,5 @@
 <template>
-  <section class="about-the-blog grid ">
+  <section class="about-the-blog flex-grid">
       <div class="column">
           <h2 class="rock-salt">
               Meet the Digital Dirtbag ... 

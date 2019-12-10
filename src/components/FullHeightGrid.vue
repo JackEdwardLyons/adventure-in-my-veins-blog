@@ -35,15 +35,6 @@ export default {
 </script>
 
 <style lang="scss">
-.vh-full {
-  height: 100vh;
-}
-
-.post-link {
-  cursor: pointer;
-  text-decoration: none;
-}
-
 .grid-item-center {
   display: flex;
   justify-content: center;
