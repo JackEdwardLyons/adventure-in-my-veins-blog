@@ -1,5 +1,7 @@
 ---
-title: Markdown test file
+title: >-
+  Meghan Kahnle shows us how to design a life around passion, purpose and
+  people.
 date: 2019-02-06T00:00:00.000Z
 published: true
 tags:
@@ -7,285 +9,65 @@ tags:
   - featured
 cover_image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
 description: >-
-  Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
-  Readability, however, is emphasized above all else. A Markdown-formatted
-  document should be publishable as-is, as plain text, without looking like it's
-  been marked up with tags or formatting instructions.
+  Meghan Kahnle shows us how to design a life around passion, purpose and
+  people.
 ---
+> I am a world traveler, trained graphic designer, painter, rock climber, and passionate community-oriented person. The goal of my work is to magically combine all of those things. I also want to thank those communities and people who make my life so full and diverse by giving back to them. Those who breathe love, support, and the pay-it-forward mentality are the backbone of my purpose. – Meghan Kahnle
 
-Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions.
 
-While Markdown's syntax has been influenced by several existing text-to-HTML
-filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
 
-## Block Elements
+I really do admire Meg’s passion and believe in her mission:
 
-### Paragraphs and Line Breaks
+To be able to find purpose, build relationships within the community and spend one’s time pursuing creative projects that blend seamlessly around the mountains sounds like a pretty damn good way to live life if you ask me.
 
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
-blank line -- a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.
+And best of all, Meg’s art is focused on giving back to the climbing community and the beautiful mountain landscapes which provide her with so much joy in life.
 
-The implication of the "one or more consecutive lines of text" rule is
-that Markdown supports "hard-wrapped" text paragraphs. This differs
-significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which translate every line break
-character in a paragraph into a `<br />` tag.
+Find out in this interview how Meg experiments with art and follows her heart in order to design a Digital Dirtbag life that keeps her healthy, happy and on track to achieving her life goals.
 
-When you *do* want to insert a `<br />` break tag using Markdown, you
-end a line with two or more spaces, then type return.
+![Meg in her element at Smith Rock](/images/uploads/meghan-001.jpeg "Meg in her element at Smith Rock")
 
-### Headers
+**_Q: Tell us a little about yourself, where you’re from, how you got into climbing, and more specifically what has drawn you into this lifestyle?_**
 
-Markdown supports two styles of headers, [Setext] [1] and [atx] [2].
+__
 
-Optionally, you may "close" atx-style headers. This is purely
-cosmetic -- you can use this if you think it looks better. The
-closing hashes don't even need to match the number of hashes
-used to open the header. (The number of opening hashes
-determines the header level.)
+Oh man I think I was born a travel bug with a paintbrush! After the age of 7 we moved about every two years, and no I wasn’t military. My parents worked in the forestry industry, so I’ve always had very close ties to the forest, and everything related to the wilderness.
 
-### Blockquotes
+With all the travelling from a young age I found my greatest escape and companion besides my brother was the outdoors. I documented all of my adventures typically in the medium of journalling and painting.
 
-Markdown uses email-style `>` characters for blockquoting. If you're
-familiar with quoting passages of text in an email message, then you
-know how to create a blockquote in Markdown. It looks best if you hard
-wrap the text and put a `>` before every line:
+Because of my connection to the outdoors, getting into climbing was the next natural progression of outdoor adventure and enjoyment for me. I started by scrambling and playing on boulders with friends, and then found a great community when I started university to study art and design. I worked at the climbing gym, went on trips with my co-workers, did homework from my sleeping bag and loved every second of my time at Oregon State University.
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+**After I graduated I was the only one from my degree that was refusing to look for a job and join the “big girl” world.** I was going to travel abroad, work on farms, sleep wherever I got tired, and climb and dance everywhere I went. Which is exactly what happened.
 
-Markdown allows you to be lazy and only put the `>` before the first
-line of a hard-wrapped paragraph:
+> I was gone for 400 days, lived out of 90 litres of space, travelled over 60,500 km through 18 countries, and climbed and danced Argentine tango in 11 of them.
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+It was an amazing adventure and I did my best to document in the moment, but it wasn’t until I got back stateside and settled that I was truly able to reminisce and pay tribute to my travels.
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
+The 4-foot by 8 foot mixed-media painting I did about my travels around the world was the turning point for me in my quest to become a digital dirtbag. **When I was working on the painting I would lose track of time, and just melt into the process and the act of creating**. It felt so good, so freeing and so similar to how I feel climbing and being outside.
 
-Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
-adding additional levels of `>`:
+Currently I feel like I have one foot in the “big girl” world and one foot in dirtbag world. I have a job as the Associate Web-Designer at [**Bodybuilding.com** ](https://www.bodybuilding.com)which allows me flexible hours based on merit. So if I work my butt off, I get more time off. Which means sleeping in my car, and lots of travelling and climbing. I also like working for a company that practices what it preaches and places a priority on fitness and health.
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+It’s hard to juggle both lives sometimes though. I have to explain how I got such horrendous rope burns and bruises to the people in my office and I have to explain to climbers that body building is not all about taking steroids and stepping on stage with fake tans and speedos.
 
-Blockquotes can contain other Markdown elements, including headers, lists,
-and code blocks:
+Okay that part isn’t hard it’s more funny, but the balancing act of switching gears between my separate lives is occasionally cumbersome albeit totally worth it!
 
-> ## This is a header.
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
-> 
-> Here's some example code:
-> 
->     return shell_exec("echo $input | $markdown_script");
+![One of Meghan Kahnle's artworks](/images/uploads/meghan-002.png "One of Meghan Kahnle's artworks")
 
-Any decent text editor should make email-style quoting easy. For
-example, with BBEdit, you can make a selection and choose Increase
-Quote Level from the Text menu.
+_Q: What digital/creative projects are you currently working on and what does your vision (the bigger picture) really look like?_
 
+__
 
-### Lists
+The biggest project I’m working on right now is my [**\#ConnectWithSmithRock**](https://www.instagram.com/explore/tags/connectwithsmithrock/) project that is part of the Live Your Dream Grant I received from the [**American Alpine Club**](http://americanalpineclub.org/home) this year. My mission with all of my work is to create collaborative mixed-media art projects to inspire, inform and give back to the communities that help create them.
 
-Markdown supports ordered (numbered) and unordered (bulleted) lists.
+With the Smith Rock project I’m collecting images from the surrounding Smith Rock community through email, Instagram (using the hashtag #ConnectWithSmithRock) and Facebook to create another 4-foot by 8-foot triptych painting.
 
-Unordered lists use asterisks, pluses, and hyphens -- interchangably
--- as list markers:
+![Connect With Smith Rock Campaign](/images/uploads/meghan-003.png "Connect With Smith Rock Campaign")
 
-*   Red
-*   Green
-*   Blue
+The painting will have a collage of all the images I collect, and then two more transparent layers of one big image of Smith Rock sculpted and painted over top. The piece will be finished by the end of the year and then hang at Red Point, the local gear store at Smith Rock, for 4 months before it is sold, having **100% of the profits go back to the park.**
 
-is equivalent to:
+I like being able to tell a story with my work. I’ve done wedding commissions, commemorative pieces of pets, and with the Smith Rock piece I really want to tell the full story of the park, because both the people and the place are important in my opinion.
 
-+   Red
-+   Green
-+   Blue
+And my vision, well I suppose I’d really like to do more work like this. I would love to travel full-time and work with more communities and parks that want to connect with and engage the public in diverse ways. I want to collaborate on creative artistic fund raisers and outreach missions.
 
-and:
+> I want to be able to raise funds, promote awareness, and give a different sort of voice to those causes and those people that are making an effort to do positive things.
 
--   Red
--   Green
--   Blue
-
-Ordered lists use numbers followed by periods:
-
-1.  Bird
-2.  McHale
-3.  Parish
-
-It's important to note that the actual numbers you use to mark the
-list have no effect on the HTML output Markdown produces. The HTML
-Markdown produces from the above list is:
-
-If you instead wrote the list in Markdown like this:
-
-1.  Bird
-1.  McHale
-1.  Parish
-
-or even:
-
-3. Bird
-1. McHale
-8. Parish
-
-you'd get the exact same HTML output. The point is, if you want to,
-you can use ordinal numbers in your ordered Markdown lists, so that
-the numbers in your source match the numbers in your published HTML.
-But if you want to be lazy, you don't have to.
-
-To make lists look nice, you can wrap items with hanging indents:
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-    viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-    Suspendisse id sem consectetuer libero luctus adipiscing.
-
-But if you want to be lazy, you don't have to:
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.
-
-List items may consist of multiple paragraphs. Each subsequent
-paragraph in a list item must be indented by either 4 spaces
-or one tab:
-
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere lectus.
-
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
-
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-It looks nice if you indent every line of the subsequent
-paragraphs, but here again, Markdown will allow you to be
-lazy:
-
-*   This is a list item with two paragraphs.
-
-    This is the second paragraph in the list item. You're
-only required to indent the first line. Lorem ipsum dolor
-sit amet, consectetuer adipiscing elit.
-
-*   Another item in the same list.
-
-To put a blockquote within a list item, the blockquote's `>`
-delimiters need to be indented:
-
-*   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
-
-To put a code block within a list item, the code block needs
-to be indented *twice* -- 8 spaces or two tabs:
-
-*   A list item with a code block:
-
-        <code goes here>
-
-### Code Blocks
-
-Pre-formatted code blocks are used for writing about programming or
-markup source code. Rather than forming normal paragraphs, the lines
-of a code block are interpreted literally. Markdown wraps a code block
-in both `<pre>` and `<code>` tags.
-
-To produce a code block in Markdown, simply indent every line of the
-block by at least 4 spaces or 1 tab.
-
-This is a normal paragraph:
-
-    This is a code block.
-
-Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
-
-A code block continues until it reaches a line that is not indented
-(or the end of the article).
-
-Within a code block, ampersands (`&`) and angle brackets (`<` and `>`)
-are automatically converted into HTML entities. This makes it very
-easy to include example HTML source code using Markdown -- just paste
-it and indent it, and Markdown will handle the hassle of encoding the
-ampersands and angle brackets. For example, this:
-
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
-
-Regular Markdown syntax is not processed within code blocks. E.g.,
-asterisks are just literal asterisks within a code block. This means
-it's also easy to use Markdown to write about Markdown's own syntax.
-
-```
-tell application "Foo"
-    beep
-end tell
-```
-
-## Span Elements
-
-### Links
-
-Markdown supports two style of links: *inline* and *reference*.
-
-In both styles, the link text is delimited by [square brackets].
-
-To create an inline link, use a set of regular parentheses immediately
-after the link text's closing square bracket. Inside the parentheses,
-put the URL where you want the link to point, along with an *optional*
-title for the link, surrounded in quotes. For example:
-
-This is [an example](http://example.com/) inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-### Emphasis
-
-Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
-emphasis. Text wrapped with one `*` or `_` will be wrapped with an
-HTML `<em>` tag; double `*`'s or `_`'s will be wrapped with an HTML
-`<strong>` tag. E.g., this input:
-
-*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__
-
-### Code
-
-To indicate a span of code, wrap it with backtick quotes (`` ` ``).
-Unlike a pre-formatted code block, a code span indicates code within a
-normal paragraph. For example:
-
-Use the `printf()` function.
+And to be completely honest and a bit vulnerable here… **I am genuinely so stoked and overwhelmingly passionate about this idea and this work because I know this is what I am supposed to be doing**. I feel in my bones and my heart that I might actually be able to make a difference with this set of tools and skills I have, and it makes me burst with excitement and talk in a super excited speedy voice sometimes. Haha not sure if that’s apparent in type 😀.
