@@ -42,7 +42,10 @@ query {
 export default {
   computed: {
     topPosts () {
-      return (posts, numPosts) => posts.slice(0, numPosts);
+      return (posts, numPosts) => {
+        const allPosts = [ ...posts ].reverse()
+        return allPosts.slice(0, numPosts);
+      }
     }
   }
 };

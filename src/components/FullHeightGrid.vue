@@ -15,8 +15,9 @@
         :key="post.node.id"
         class="grid-item-center box-shadow-effect post-link"
         :class="'grid-item-' + (index + 1)"
-        :style="{ background: `url(${post.node.cover_image})`, backgroundSize: 'cover', }"
+        :style="{ backgroundSize: 'cover', }"
         :aria-label="`Click to view '${post.node.title}'`"
+        v-lazy:background-image="post.node.cover_image"
       >
         <single-grid-post :post="post" />
       </g-link>

@@ -63,9 +63,10 @@ export default {
   computed: {
     typedStrings () {
       return [
+        'climb around the world without 🔥 all your 💵.',
         'read more digital dirtbag posts ⛰.',
-        'become a BETA user for my apps and web projects 🎮.',
-        'join a global community of climbers 💪.',
+        'become a BETA user for my web projects 🎮.',
+        'join a 🌎 community of climbers 💪.',
         'climb by day and code by night 🖥.', 
         'learn how to become location independent 🌎.'
       ]

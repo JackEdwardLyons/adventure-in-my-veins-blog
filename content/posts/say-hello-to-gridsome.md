@@ -7,7 +7,7 @@ tags:
   - Releases
   - featured
 cover_image: /images/uploads/duncan-brown-header.jpeg
-description: '**__**'
+description: In this interview, Duncan shows us that location independence truly is possible and that there's never been a better time to learn a digital trade.
 ---
 Life on the road as a climber certainly has it's charms. I mean, how can you resist being out in nature, surrounded by beautiful mountains, alongside newfound climbing buddies all while pushing oneself to the limit on a newly discovered project? 
 
