@@ -1,5 +1,5 @@
 ---
-title: "Say hello to Gridsome \U0001F389"
+title: Duncan Brown shares how he lives the “Digital Dirtbag” dream
 date: 2019-02-07T00:00:00.000Z
 published: true
 tags:
@@ -7,85 +7,54 @@ tags:
   - Releases
   - featured
 cover_image: /images/uploads/hu-chen-fz0qzjvf_-c-unsplash.jpg
-description: >-
-  A new static site generator baby is born. It's highly inspired by Gatsby.js
-  (React based) but built on top of Vue.js. We have been working on it for a
-  year and will have a beta ready soon. You can expect this baby to grow up
-  fast!
+description: '**__**'
 ---
+Life on the road as a climber certainly has it's charms. I mean, how can you resist being out in nature, surrounded by beautiful mountains, alongside newfound climbing buddies all while pushing oneself to the limit on a newly discovered project? 
 
-A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
+Sounds too good to be true right? Most climbers think it can only be done if you're willing to give up everything in order to get by, ala "dirtbagging". Well, I'm here today with an amazing climber, and "digital dirtbag", who is walking proof that it doesn't have to be.
 
-We think **Gridsome** is a missing piece to the Vue.js ecosystem. What Gatsby.js does for React.js is a game changer in how we build websites.  React.js is excellent, but we think Vue.js is more approachable for most web designers and devs getting started with JAMstack. Gridsome is the Vue.js alternative to Gatsby.
+Duncan Brown is the founder of [**Athlete by Choice**](https://www.athletebychoice.com/), Duncan is the epitome of what it really means to be a “Digital Dirtbag”. Without risking it all he has cleverly crafted a life and a living around his love for climbing as well as his passion for health, fitness, personal development and of course, travel.
 
-With **Gridsome** you get a **universal GraphQL layer** for all your connected data sources. It's like a single source of truth for your website data ready to be used in any page or components. Connect to any CMS or APIs like Google Spreadsheet, Airtable, Instagram Feed, local markdown files, etc. 
+In this interview, Duncan shows us that location independence truly is possible and that there's never been a better time to learn a digital trade. It’s now possible for anyone to freely pick up freelance jobs, new clients and build a business via an internet connection and a Skype account. But of course, professionalism, expertise and dedication to one’s craft definitely play a critical role to cultivating success, as you’ll soon see.
 
-Here is an example on how to query posts from the GraphQL layer in a page:
+At the end of the day what remains clear is that it truly is possible to design a life of location independence, engaging work, exciting projects, and adventures across the globe.
 
+![Duncan throwing down on the obscure (but highly worthwhile) classic sport rig, “Raptures Of The Steep” (25 / 7b).](/images/uploads/duncan-brown-001.jpeg "Duncan throwing down on the obscure (but highly worthwhile) classic sport rig, “Raptures Of The Steep” (25 / 7b).")
 
-```html
-<template>
-  <Layout>
-    <h2>Latest blog posts</h2>
-    <ul>
-      <li v-for="edge in $page.allWordPressPost.edges" :key="edge.node.id">
-        {{ edge.node.title }}
-      </li>
-    </ul>
-  </Layout>
-</template>
+_Duncan throwing down on the obscure (but highly worthwhile) classic sport rig, “Raptures Of The Steep” (25 / 7b)._
 
-<page-query>
-query Blog {
-  allWordPressPost (limit: 5) {
-    edges {
-      node {
-        _id
-        title
-      }
-    }
-  }
-}
-</page-query>
-```
+__
 
-You don't need to know GraphQL or Vue to get started with Gridsome - It's a great way to get introduced to both.
+**_Q: Tell us a little about yourself (your work, life, how you spend your time) and especially, how you got into climbing?_**
 
+**__**
 
-The GraphQL layer and all the data can be explored in a local GraphQL playground. The playground is usually located at `https://localhost:8080/___explore` when a Gridsome development project is running.
+Like a lot of kids I was always climbing all over things, up trees, onto roofs and all that jazz, then I did some indoor rock climbing a few times in high school but I didn’t get into the sport at that point. I was a very outdoors sort of kid and went fishing and camping and hiking a lot but never really knew about outdoor climbing. Then after high school I was studying Geoscience and a class mate was a climber and I got introduced to it then at about 19 years of age.
 
 
 
-
-#### Perfect scores on Google Lighthouse - automagically 💚
-
-One of the main goals of Gridsome is to make a framework that let you build websites that are optimized "out-of-the-box." It follows the [PRPL-pattern by Google.](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) You don't need to be a performance expert to make fast websites with Gridsome. Your site gets almost perfect scores on Google lighthouse out-of-the-box. These are some of the performance steps that Gridsome takes care of:
-
-- Image compressing & lazy-loading ⚡️ 
-- CSS & JS minification ⚡️ 
-- Code-splitting ⚡️ 
-- HTML compressing ⚡️ 
-- Critical CSS (Plugin) ⚡️ 
-- Full PWA & Offline-support (plugin) ⚡️  
+I was hooked immediately, as a lot of us are. I climbed daily at the local gym and soon went outdoors. My first day outdoors was seconding a 2 pitch Henry Barber 5.11b called ‘Soolaimon’ and then onsighting an Andrew Bull 5.10d sport route called ‘Intergalactic Bugs’ – needless to say, from that day on I could not get enough of climbing in the outdoors!
 
 
-#### A better way to build websites
 
-Gridsome is built for the JAMstack workflow - a new way to build websites that gives you better performance, higher security, cheaper hosting, and a better developer experience. Generate prerendered (static) pages at build time for SEO-purpose and add powerful dynamic functionality with APIs and Vue.js.
-
-We believe the SSGs / JAMstack trend is just getting started. When you have first started to make websites this way there is no way back. You feel almost "dirty" when going back to a traditional WordPress / CMS setup. 
-
-Try running the new Chrome Lighthouse (Audit tab in Developer tools) on a WordPress site - It is impossible to get good scores even with the best caching plugins and hosting. With Gridsome you don't even need caching plugins. Website optimization is taken care of at build time.
-
-This is what we think is very exciting and is why we are building Gridsome. It is the **perfect SPA & PWA front-end solution** for any headless CMS or content APIs.
+Since that day climbing has been an integral part of my life (apart from a brief hiatus when I was pursuing music production full time for a bit, but that’s a whole other story!). Climbing has dictated most of my choices of where to live and what to do for a living.
 
 
-#### Whats next
 
-In the next couple of months we're going to continue to improve the docs, create tutorials, add more source & transformer plugins and fix bugs. 
+From moving to the Blue Mountains in Australia to spending numerous years living in Yangshuo in China. I have tended to gravitate towards places that offer both a plethora of climbing opportunity as well as the potential for employment.
 
-#### Contribute to Gridsome
 
-We're currently just two brothers working on this, so any contribution is very welcome. We're passionate about building a faster web and make website building fun again.
 
-You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
+I had spent quite some time working as a coach in climbing gyms, and as a swimming and gymnastics coach and a personal trainer, then with the internet becoming more and more a part of our every day lives I had the idea of trying to meld my love of teaching and coaching climbing with the digital age to try and provide an online climbing coaching service.
+
+
+
+Since it’s beginnings as a blog, Athlete By Choice has developed into a lot more now with the cornerstone of what I do being individually tailored climbing training and coaching solutions delivered through a free and easy to use App and website that means you can train anywhere in the world and have me along for the ride laying out your program, coaching you and helping you to maximise your training time and achieve your goals.
+
+
+
+This isn’t restricted to climbing, of course. I work with climbers (of all types, from boulderers to mountaineers) as well as skiers, mountain bikers, trail runners and more.
+
+
+
+Being able to work on building a business that is both location independent as well as rewarding (in that I get to help people achieve their dreams and goals in the outdoors) has been amazing and while the business has a lot of room for growth yet, being able to integrate my passion and work into my climbing and travel rich lifestyle has been an amazing journey and I hope it can continue to grow and evolve for many years yet!
