@@ -1,6 +1,6 @@
 ---
 title: Duncan Brown shares how he lives the “Digital Dirtbag” dream
-date: 2019-02-07T00:00:00.000Z
+date: 2015-06-09T00:00:00.000Z
 published: true
 tags:
   - Markdown
@@ -25,11 +25,7 @@ At the end of the day what remains clear is that it truly is possible to design 
 
 _Duncan throwing down on the obscure (but highly worthwhile) classic sport rig, “Raptures Of The Steep” (25 / 7b)._
 
-
-
-_**Q: Tell us a little about yourself (your work, life, how you spend your time) and especially, how you got into climbing?**_
-
-**__**
+## **_Q: Tell us a little about yourself (your work, life, how you spend your time) and especially, how you got into climbing?_**
 
 Like a lot of kids I was always climbing all over things, up trees, onto roofs and all that jazz, then I did some indoor rock climbing a few times in high school but I didn’t get into the sport at that point. I was a very outdoors sort of kid and went fishing and camping and hiking a lot but never really knew about outdoor climbing. Then after high school I was studying Geoscience and a class mate was a climber and I got introduced to it then at about 19 years of age.
 
@@ -47,7 +43,7 @@ This isn’t restricted to climbing, of course. I work with climbers (of all typ
 
 Being able to work on building a business that is both location independent as well as rewarding (in that I get to help people achieve their dreams and goals in the outdoors) has been amazing and while the business has a lot of room for growth yet, being able to integrate my passion and work into my climbing and travel rich lifestyle has been an amazing journey and I hope it can continue to grow and evolve for many years yet!
 
-**_Q: Athlete by Choice seems like a great way to scale your professional coaching and training expertise in order to reach a wider audience. Could you explain what someone can expect when signing up and participating in your online program?_**
+## _**Q: Athlete by Choice seems like a great way to scale your professional coaching and training expertise in order to reach a wider audience. Could you explain what someone can expect when signing up and participating in your online program?**_
 
 One of the things I strongly believe is that there is no one answer to the question of how to train for any given sport, especially not in outdoor sports like climbing that are so multi faceted. Every person, goals and situation is different and can require a different approach.
 
@@ -65,25 +61,17 @@ We chat regularly through the platform, email, phone, Skype, any form of communi
 
 _Duncan cruising his way up some glorious Australian rock._
 
-
-
-**_Q. In your opinion, does this business model allow you to truly become location independent?_**
-
-**__**
+## _**Q. In your opinion, does this business model allow you to truly become location independent?**_
 
 As all of my clientele are online this model really is a location independent model – so long as I have internet access, I can work. Without this model I would definitely need to live in a large city in order to have enough clients to make the business work, but with an online model I have access to the entire globe as potential clientele and that gives me the freedom to live in a wider range of places.
 
 I have made my home now in a town called Natimuk which is the town next to [**Mount Arapiles** ](https://www.thecrag.com/climbing/australia/arapiles)and the [**Grampians**](https://www.thecrag.com/climbing/australia/grampians) and which is a small but vibrant little climbing town with endless climbing potential of all types on my door step. But without the business model I am using it just wouldn’t be viable to live in a small town like this without having to work in a different profession.
 
-_**Q:You also keep busy with your work writing articles in climbing magazines around the world as well as publishing your own collection of eBooks. Is writing something that comes naturally to you, or have you worked on it like any other skill?**_
-
-_****_
+**_Q:You also keep busy with your work writing articles in climbing magazines around the world as well as publishing your own collection of eBooks. Is writing something that comes naturally to you, or have you worked on it like any other skill?_**
 
 Writing skill is definitely not something that I am naturally gifted with! I write quite a lot and I feel that I can convey a message or concept reasonably well but I am quite envious of the talented writers out there that can craft an engaging and eloquent piece that really draws in the reader and gets them engaged – it’s a never ending learning process and hopefully I can continue to learn and improve.
 
-_**Q: Seeing as your work is very much related to climbing, does that mean you always have an excuse to go climbing, or is it truly an integral part of your work?**_
-
-__
+## **_Q: Seeing as your work is very much related to climbing, does that mean you always have an excuse to go climbing, or is it truly an integral part of your work?_**
 
 I see climbing as an integral part of what I do. Being out there and going through all the same processes of goal setting, training, projecting, etc, means that my clients and I are all on the same page and they can watch me going through the processes as well and hopefully that helps to motivate them to work hard on their goals, too. **My hope is that in always being out there doing the same thing as my clientele helps us to relate well to each other**. Plus, going out climbing all the time is just darn fun!
 
@@ -91,9 +79,7 @@ I see climbing as an integral part of what I do. Being out there and going throu
 
 _The perks of climbing and living in the Outback!_
 
-_**Q: Based on your expertise I'd love to know what some of your favourite foods are in order to stay fit and fueled for a day out at the crag?**_
-
-__
+## **_Q: Based on your expertise I'd love to know what some of your favourite foods are in order to stay fit and fueled for a day out at the crag?_**
 
 Nutrition is such a complex subject that science is still working hard on understanding properly and there is simply just so, so much conflicting and confusing information out there and with every person having different needs there just isn’t any formula that works for everyone.
 
@@ -103,9 +89,7 @@ I think [**Michael Pollan**](https://michaelpollan.com/) summed up my thoughts o
 
 At the same time I am not one to be scared of enjoying a treat here and there and I don’t think that worrying about weight and body fat percentages is of much use to most recreational athletes. If you eat healthily and train effectively you will reach a healthy weight for you in time and will stay happy and healthy for longer.
 
-_**Q: If you were to give 3 simple tips for any climber to kick more ass out on the rock what would they be?**_
-
-__
+## **_Q: If you were to give 3 simple tips for any climber to kick more ass out on the rock what would they be?_**
 
 **Have goals –** An athlete without goals is like a rudderless ship. Know what you are trying to achieve and steer your training towards specific short and long term goals.
 
@@ -113,9 +97,7 @@ __
 
 **Get out of your comfort zone more often –** Don’t like slabs? Make yourself do at least one every time you climb. Don’t like roofs? Same deal. Make yourself do things outside of your preferred style every time you climb. This helps to improve your catalogue of movement skills and helps you to become more comfortable in a wider range of climbing situations, making you a better all round climber.
 
-**_Q: And finally, what are your 3 favourite climbing destinations around the world and why._**
-
-**__**
+## _**Q: And finally, what are your 3 favourite climbing destinations around the world and why.**_
 
 Ah, this is always such a hard question to answer because everywhere has something special about it that endears it to you!
 
@@ -135,16 +117,14 @@ _Well, there you have it folks. The first installment of the Digital Dirtbag ser
 
 _If you would like to see more from Duncan and Athlete By Choice you can find him at:_
 
-\- [**www.athletebychoice.com**](www.athletebychoice.com)****
+\- [**www.athletebychoice.com**](www.athletebychoice.com)
 
-\- [**www.facebook.com/athletebychoice**](www.facebook.com/athletebychoice)****
+\- [**www.facebook.com/athletebychoice**](www.facebook.com/athletebychoice)
 
-_\-_ [**_@athletebychoice_**](instagram.com/athletebychoice) _on Instagram_
+_\-_ [_**@athletebychoice**_](instagram.com/athletebychoice) _on Instagram_
 
 _Or alternatively drop him a line at_ _**info@athletebychoice.com** if you would like to talk more about how ABC can help you achieve your own goals!_
 
-_Duncan is proudly supported by_ [**_Goal Zero_**](www.goalzero.com)_,_ [**_Evolv_**](www.evolvsports.com) _&_ [**_Climbing Anchors_**](https://www.climbinganchors.com.au)_._
-
-
+_Duncan is proudly supported by_ [_**Goal Zero**_](www.goalzero.com)_,_ [_**Evolv**_](www.evolvsports.com) _&_ [_**Climbing Anchors**_](https://www.climbinganchors.com.au)_._
 
 If you think you would be a great fit for the Digital Dirtbag series or know someone who might be interested in sharing their story then send me a message on Instagram [**@adventureinmyveins**](https://www.instagram.com/adventureinmyveins/)\*\*\*\*
