@@ -43,7 +43,7 @@ export default {
   computed: {
     topPosts () {
       return (posts, numPosts) => {
-        const allPosts = [ ...posts ].reverse()
+        const allPosts = [ ...posts ]
         return allPosts.slice(0, numPosts);
       }
     }

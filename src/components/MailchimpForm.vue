@@ -65,7 +65,7 @@ export default {
       return [
         'climb around the world without 🔥 all your 💵.',
         'read more digital dirtbag posts ⛰.',
-        'become a BETA user for my web projects 🎮.',
+        'become a BETA user for my web apps 🎮.',
         'join a 🌎 community of climbers 💪.',
         'climb by day and code by night 🖥.', 
         'learn how to become location independent 🌎.'
