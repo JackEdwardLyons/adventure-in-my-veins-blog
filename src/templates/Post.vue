@@ -79,6 +79,9 @@ query Post ($id: ID!) {
 .post-title {
   padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
   text-align: center;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .post {
@@ -100,8 +103,14 @@ query Post ($id: ID!) {
   }
 
   &__content {
-    h2:first-child {
-      margin-top: 0;
+
+    h2 {
+      font-size: 1.5rem;
+      line-height: 1.4;
+
+      &:first-child {
+        margin-top: 0;
+      }
     }
 
     p:first-of-type {
