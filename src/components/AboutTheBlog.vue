@@ -1,31 +1,20 @@
 <template>
-  <section class="about-the-blog flex-grid">
-    <div class="column text-center" style="width: 90%; max-width: 700px; margin: 0 auto;">
-      <h2 class="type--rock-salt">Adventure In My Veins ...</h2>
-      <p>
-        Or whatever it's going to be called ...
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-      </p>
-      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium!</p>
-
-    <h5 class="type--rock-salt">
-        Connect
-    </h5>
-      <div class="flex-grid justify-center">
-        <span class="clickable-icon">
-          <mail-icon />
-        </span>
-        <span class="clickable-icon">
-          <wifi-icon />
-        </span>
-        <span class="clickable-icon">
-          <instagram-icon />
-        </span>
+  <section class="about-the-blog flex-grid text-center">
+    <div class="column" style="margin: 0;">
+      <g-image src="/images/demo-logo-2.png" alt="collage" style="margin-top: -2rem;" />
+      <div style="position: relative; top: -3rem; max-width: 700px; margin: 0 auto;">
+        <!-- <h2 class="type--rock-salt">Adventure In My Veins</h2> -->
+        <p>
+          An adventure publication crafted for those wanderlusting, thrill seeking,
+          mountain lovers who want to build a location independent lifestyle. 
+          I show you how to become a digital dirtbag and travel the world sustainably.
+        </p>
       </div>
-    </div>
+
+
+      </div>
     <!-- <div class="column">
-          <g-image src="https://codex-themes.com/thegem/sites/travel-blog/wp-content/uploads/2019/05/4.png" alt="collage" />
-    </div>-->
+    </div> -->
   </section>
 </template>
 
@@ -54,19 +43,19 @@ export default {
   }
 
   .clickable-icon {
-      cursor: pointer;
-      margin: 0 .5rem;
+    cursor: pointer;
+    margin: 0 0.5rem;
 
-      &:hover {
-          transform: scale(1.2);
-          transition: 0.3s ease;
-      }
+    &:hover {
+      transform: scale(1.2);
+      transition: 0.3s ease;
+    }
   }
 }
 
 @media screen and (min-width: 769px) {
   .about-the-blog {
-    padding: 2rem;
+    padding: 0;
     background-color: var(--bg-color);
     flex-direction: row;
 

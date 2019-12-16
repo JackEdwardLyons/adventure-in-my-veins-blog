@@ -1,10 +1,10 @@
 <template>
   <Layout :show-logo="false">
+    <!-- About the blog -->
+    <about-the-blog />
     <full-height-grid :posts="featuredPosts" />
 
     <three-post-grid :posts="nonFeaturedPosts" />
-    <!-- About the blog -->
-    <about-the-blog />
 
     <!-- More posts with tags -->
   </Layout>

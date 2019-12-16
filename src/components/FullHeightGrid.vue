@@ -1,13 +1,7 @@
 <template>
   <section class="vh-full">
     <div class="grid-container">
-      <div class="logo">
-        <!-- <img class="mountain-logo" src="../../dist/images/uploads/mountains.png"> -->
-        <p class="mini-blurb">
-          An adventure publication crafted for those wanderlusting, thrill seeking,
-          mountain lovers who want to build a location independent lifestyle.
-        </p>
-      </div>
+
 
       <g-link
         :to="post.node.path"
@@ -51,6 +45,9 @@ export default {
   grid-template-rows: repeat(3, 1fr);
   height: 100%;
   position: relative;
+
+  grid-gap: 1.5rem;
+  padding: .5rem 1.5rem;
 
   .logo {
     position: absolute;
