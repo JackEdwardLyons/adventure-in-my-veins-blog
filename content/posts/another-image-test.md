@@ -100,7 +100,7 @@ Courses generally have 3–6 people in them. Suffice it to say, if I taught 1 co
 
 **Quest putting on an impressive show in Tonsai, Thailand.**
 
-## 4. What are three essential tips you would give to anyone who wants to travel cheaply, for as long as possible and even make a buck along the way?
+## Q. What are three essential tips you would give to anyone who wants to travel cheaply, for as long as possible and even make a buck along the way?
 
 First of all, I always assume I can’t afford anything. Even if I’m not broke, I just pretend I’m broke. I tend to spend less that way. **Also understanding that there is nothing wrong with someone else’s half-eaten food.**
 
@@ -112,11 +112,7 @@ Now that travelling with a mobile device is the norm, there are a ton of apps th
 
 I recently began to use an App called [**“Daily Budget”** **on the iPhone**.](https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8) It’s really awesome. I set the amount of money I want to spend that month, and it keeps track of my daily limit. Everything I buy, I throw it into the app and it keeps track of whether I am below my daily limit or above, and carries the surplus or deficit over to the next day.
 
-![](https://miro.medium.com/max/418/1*ZbgMDf1JSnteDQcgFkdFlQ.png)
-
-[**Daily Budget App**](https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8)
-
-## **Q: Because you‘ve been on so many long term expeditions around the world, do you have any tips to handle the change from “adventure/fantasy land” back to the “real world”?**
+## Q: Because you‘ve been on so many long term expeditions around the world, do you have any tips to handle the change from “adventure/fantasy land” back to the “real world”?
 
 This was an entire skill in itself and took me a long time to develop. The reverse culture shock is probably one of the reasons I just kept on travelling. I only could last a maximum of 2–3 weeks in the States before I threw my hands in the air and took a one way trip somewhere else.
 
@@ -128,11 +124,11 @@ It takes time to develop that skill, but I think accepting the fact that we, as 
 
 But really, that point of view is just as culturally insensitive as the city person who goes to the island and calls it dirty and disgusting and goes back to their resort. The idea is to celebrate and participate with each culture for the things that make it wonderful, and with that mindset, **we can find joy anywhere in the world, even at home.**
 
-![](https://miro.medium.com/max/2560/1*w0j0N8URLwa5WCC5rW_EAw.jpeg)
+![A photo of beautiful Kalymnos!](/images/uploads/quest-henkart-008.jpeg "Kalymnos Magic!")
 
 **Kalymnos Magic!**
 
-## **Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?**
+## Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?
 
 I think the most important advice I can give anyone who has a desire to travel the world or wanderlust is **AVOID DEBT.** One of my favourite quotes:
 
@@ -150,17 +146,17 @@ As far as jobs go, **all the jobs I’ve ever got abroad have been acquired upon
 
 A loose plan is nice to have as well, but it is important to keep it flexible. Become a yes person, and don’t stick to your plan, just have it in case a better one doesn’t present itself.
 
-## **Q: What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?**
+## Q: What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?
 
 Like I mentioned before, my current stage in life will be spent preparing for my next big thing, which will be a tech-based sustainable intentional community somewhere in the world with incredible climbing, on the beach, with lots of slacklines.
 
 The goal is to work, perhaps in consulting, remote or contract work for a few months a year, and then spend the rest of the year enjoying life. This is my 3–5 year plan.
 
-![](https://miro.medium.com/max/60/1*ikHRi-Ckcvp0B-cwp0tJ_w.jpeg?q=20)
+![Quest attempting a massive slackline.](/images/uploads/quest-henkart-009.jpeg "Quest attempting a massive slackline.")
 
 **Quest biting off a bit more than he could chew with this slackline attempt**
 
-**8. And finally, what are your three favourite climbing destinations and why?**
+## **Q: And finally, what are your three favourite climbing destinations and why?**
 
 # [**El Potrero Chico, Hidalgo, Mexico**](http://www.thecrag.com/climbing/mexico/el-potrero-chico)
 
@@ -218,11 +214,13 @@ I saved the best for last. Don’t listen to all the hype about how this place h
 
 **_at last I return to the true home of my heart._**
 
-![](https://miro.medium.com/max/60/1*luJUWi04Nd7UyEqbe2XdQA.jpeg?q=20)
+![A stunning landscape photo of Tonsai](/images/uploads/quest-henkart-010.jpeg "A stunning landscape photo of Tonsai")
 
 **The one, the only… The beautiful Tonsai**
 
-## To read more about Quests adventures around the world then be sure to check him out online:
+****
+
+## **To read more about Quests adventures around the world then be sure to check him out online:**
 
 [**Quest’s old TravelPod Blog**](http://www.travelpod.com/s/blogs/%2540by%2B%255Equest%2524?p=2&ob=time) **(2010–2011)**
 
