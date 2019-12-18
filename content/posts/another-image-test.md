@@ -156,69 +156,69 @@ The goal is to work, perhaps in consulting, remote or contract work for a few mo
 
 **Quest biting off a bit more than he could chew with this slackline attempt**
 
-## **Q: And finally, what are your three favourite climbing destinations and why?**
+## Q: And finally, what are your three favourite climbing destinations and why?
 
-# [**El Potrero Chico, Hidalgo, Mexico**](http://www.thecrag.com/climbing/mexico/el-potrero-chico)
+#### [**El Potrero Chico, Hidalgo, Mexico**](http://www.thecrag.com/climbing/mexico/el-potrero-chico)
 
 Home of the tallest sport climbs in the world (24 pitches anyone), incredible food and culture and crazy multi pitch climbing.
 
-# [**Kalymnos**](http://climbkalymnos.com/)
+#### [**Kalymnos**](http://climbkalymnos.com/)
 
 Beautiful limestone, incredibly cheap, gorgeous beaches, huge climbing atmosphere, and enough climbing mountain goats to make you wish you had hooves.
 
-# [**Tonsai**](http://www.thecrag.com/climbing/thailand/krabi/area/13949905)
+#### [**Tonsai**](http://www.thecrag.com/climbing/thailand/krabi/area/13949905)
 
 I saved the best for last. Don’t listen to all the hype about how this place has changed. It’s still the same place, with the same community, locals, and climbing. Words can’t express how much this place means to me, well actually they can. I wrote this poem a few years ago, I don’t think an explanation can do any better:
 
-**_The limestone cliffs provide the key_**
+_**The limestone cliffs provide the key**_
 
-**_As I head forth to where I’m free_**
+_**As I head forth to where I’m free**_
 
-**_the Jungle builds devouring the beach_**
+_**the Jungle builds devouring the beach**_
 
-**_as Climbers climb and buddhists preach_**
+_**as Climbers climb and buddhists preach**_
 
-**_We float on bright, vibrant blue water_**
+_**We float on bright, vibrant blue water**_
 
-**_where fire burns, and only gets hotter_**
+_**where fire burns, and only gets hotter**_
 
-**_here buckets are filled, and slacklines are set_**
+_**here buckets are filled, and slacklines are set**_
 
-**_and the true adventurers are those we just met_**
+_**and the true adventurers are those we just met**_
 
-**_in bungalows we stay right on the sea_**
+_**in bungalows we stay right on the sea**_
 
-**_with backgammon in hand we enjoy our tea_**
+_**with backgammon in hand we enjoy our tea**_
 
-**_music we play near every day_**
+_**music we play near every day**_
 
-**_as base jumpers jump right into the fray_**
+_**as base jumpers jump right into the fray**_
 
-**_the food is the best, curries and all_**
+_**the food is the best, curries and all**_
 
-**_and climbers scream whenever they fall_**
+_**and climbers scream whenever they fall**_
 
-**_at night we drink while fire dancers spin_**
+_**at night we drink while fire dancers spin**_
 
-**_and all those we meet become our kin_**
+_**and all those we meet become our kin**_
 
-**_true in the heart and pure in the mind_**
+_**true in the heart and pure in the mind**_
 
-**_all of the locals respond in kind_**
+_**all of the locals respond in kind**_
 
-**_this is the place where I can be me_**
+_**this is the place where I can be me**_
 
-**_where beauty flows as far as I see_**
+_**where beauty flows as far as I see**_
 
-**_and surrounded by this glorious rocky rampart_**
+_**and surrounded by this glorious rocky rampart**_
 
-**_at last I return to the true home of my heart._**
+_**at last I return to the true home of my heart.**_
 
 ![A stunning landscape photo of Tonsai](/images/uploads/quest-henkart-010.jpeg "A stunning landscape photo of Tonsai")
 
 **The one, the only… The beautiful Tonsai**
 
-****
+- - -
 
 ## **To read more about Quests adventures around the world then be sure to check him out online:**
 
@@ -226,22 +226,16 @@ I saved the best for last. Don’t listen to all the hype about how this place h
 
 [**Quests Tumblr Blog**](http://questforadventure.tumblr.com/) **(2012–2013)**
 
-And for all things tech, business and software you can also get in touch with Quest at:
-
-[**www.questhenkart.com**](http://questhenkart.com/)
+And for all things tech, business and software you can also get in touch with Quest at: [**www.questhenkart.com**](http://questhenkart.com/)
 
 - - -
 
-# Subscribe
+If you think you would be a great fit for the **Digital Dirtbag** series or know someone who might be interested in sharing their story then feel free to shoot through a message.
 
 If you’re an adventurous soul with a passion for the mountains and a lust for location independence, then this blog is for **you.**
 
 Sign up today and stay in the loop with my latest articles designed to help you become a location independent, **digital dirtbag.**
 
-**_Adventure in My Veins_**  is all about helping you find the balance between work, life and travel without having to tie yourself down and let another day at the crag pass you by.
+_**Adventure in My Veins**_  is all about helping you find the balance between work, life and travel without having to tie yourself down and let another day at the crag pass you by.
 
 Be sure to subscribe to the A I M V Publication via Medium, or alternatively you can sign up for free on the blog.
-
-- - -
-
-If you think you would be a great fit for the **Digital Dirtbag** series or know someone who might be interested in sharing their story then feel free to shoot through a message.
