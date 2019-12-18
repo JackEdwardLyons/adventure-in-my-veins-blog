@@ -22,7 +22,7 @@ Welcome, **Quest Henkart.**
 
 ![Quest Henkart](/images/uploads/quest-henkart-002.jpeg "Quest Henkart")
 
-**Quest Henkart**
+_Quest Henkart_
 
 ## Q: Can you tell us a little bit about yourself, namely how and why you got into climbing, travelling and adventuring around the world?
 
@@ -36,7 +36,7 @@ I befriended a local climbing guide who taught me how to climb and lent me gear 
 
 ![Ha Long Bay, Vietnam](/images/uploads/quest-henkart-003.jpeg "Ha Long Bay, Vietnam")
 
-**Ha Long Bay, Vietnam, a climbers and divers paradise. Taken from** [**Quest’s Blog.**](http://www.travelpod.com/travel-blog-entries/quest/1/1282743126/tpod.html)
+_Ha Long Bay, Vietnam, a climbers and divers paradise. Taken from [**Quest’s Blog.**](http://www.travelpod.com/travel-blog-entries/quest/1/1282743126/tpod.html)_
 
 ## Q. It seems that you truly do live in the “digital world”, can you give us a bit of a background on what you do?
 
@@ -64,7 +64,7 @@ The best part about being a software engineer, is that the job demand only incre
 
 ![Quest working from home.](/images/uploads/quest-henkart-005.jpeg "Quest working from home.")
 
-**Quest in his element as a freshly graduated software engineer**
+_Quest in his element as a freshly graduated software engineer_
 
 ## Q: On top of your “digital skills”, you’ve also got a pretty impressive “adventure” resume, can you share the other cool skills you’ve developed, and how they have helped fund your travels?
 
@@ -76,7 +76,7 @@ I started my company “Meditation in Motion” when I moved to Honduras back in
 
 ![A photo of Quest scuba diving](/images/uploads/quest-henkart-006.jpeg "A photo of Quest scuba diving")
 
-**Playing about in the deep blue sea; not a bad way to earn a buck, eh!**
+_Playing about in the deep blue sea; not a bad way to earn a buck as a dive instructor!_
 
 When I was living in Greece, the coins there are worth a lot more (thanks Euro), and I would charge the bar €50 and make €150–250 in tips. Enough to pay rent for a 15 minute performance.
 
@@ -84,7 +84,9 @@ In the States, I would charge $200–500 for a show. But in other places, a fire
 
 For a time, I would get free drinks in exchange for a show, until I won 2nd place at an international Fire dancing contest in Thailand and people began offering me $15 to do a show at their bar. Still hardly profitable compared to other locations.
 
-During the day I was a Scuba Instructor. **Being a Scuba Instructor was the most profitable, but also the most time consuming job.**
+During the day I was a Scuba Instructor. 
+
+> Being a Scuba Instructor was the most profitable, but also the most time consuming job.
 
 Unlike DiveMasters (underwater guides and one level below Scuba Instructor), getting a job as an Instructor is extremely easy, in fact**, anywhere in the world where there is a diveshop, they literally beg passing instructors to work for them.**
 
@@ -98,7 +100,7 @@ Courses generally have 3–6 people in them. Suffice it to say, if I taught 1 co
 
 ![Quest putting on an impressive show in Tonsai, Thailand.](/images/uploads/quest-henkart-007.jpeg "Quest putting on an impressive show in Tonsai, Thailand.")
 
-**Quest putting on an impressive show in Tonsai, Thailand.**
+_Quest putting on an impressive show in Tonsai, Thailand._
 
 ## Q. What are three essential tips you would give to anyone who wants to travel cheaply, for as long as possible and even make a buck along the way?
 
@@ -112,7 +114,7 @@ Now that travelling with a mobile device is the norm, there are a ton of apps th
 
 I recently began to use an App called [**“Daily Budget”** **on the iPhone**.](https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8) It’s really awesome. I set the amount of money I want to spend that month, and it keeps track of my daily limit. Everything I buy, I throw it into the app and it keeps track of whether I am below my daily limit or above, and carries the surplus or deficit over to the next day.
 
-## Q: Because you‘ve been on so many long term expeditions around the world, do you have any tips to handle the change from “adventure/fantasy land” back to the “real world”?
+## Q: Because you‘ve been on so many expeditions around the world, do you have any tips to handle the change from “adventure/fantasy" back to the “real world”?
 
 This was an entire skill in itself and took me a long time to develop. The reverse culture shock is probably one of the reasons I just kept on travelling. I only could last a maximum of 2–3 weeks in the States before I threw my hands in the air and took a one way trip somewhere else.
 
@@ -126,7 +128,7 @@ But really, that point of view is just as culturally insensitive as the city per
 
 ![A photo of beautiful Kalymnos!](/images/uploads/quest-henkart-008.jpeg "Kalymnos Magic!")
 
-**Kalymnos Magic!**
+_Kalymnos Magic!_
 
 ## Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?
 
@@ -154,7 +156,7 @@ The goal is to work, perhaps in consulting, remote or contract work for a few mo
 
 ![Quest attempting a massive slackline.](/images/uploads/quest-henkart-009.jpeg "Quest attempting a massive slackline.")
 
-**Quest biting off a bit more than he could chew with this slackline attempt**
+_Quest biting off a bit more than he could chew with this slackline attempt_
 
 ## Q: And finally, what are your three favourite climbing destinations and why?
 
@@ -216,11 +218,9 @@ _**at last I return to the true home of my heart.**_
 
 ![A stunning landscape photo of Tonsai](/images/uploads/quest-henkart-010.jpeg "A stunning landscape photo of Tonsai")
 
-**The one, the only… The beautiful Tonsai**
+_The one, the only… The beautiful Tonsai_
 
-- - -
-
-## **To read more about Quests adventures around the world then be sure to check him out online:**
+**To read more about Quests adventures around the world then be sure to check him out online:**
 
 [**Quest’s old TravelPod Blog**](http://www.travelpod.com/s/blogs/%2540by%2B%255Equest%2524?p=2&ob=time) **(2010–2011)**
 
@@ -230,12 +230,4 @@ And for all things tech, business and software you can also get in touch with Qu
 
 - - -
 
-If you think you would be a great fit for the **Digital Dirtbag** series or know someone who might be interested in sharing their story then feel free to shoot through a message.
-
-If you’re an adventurous soul with a passion for the mountains and a lust for location independence, then this blog is for **you.**
-
-Sign up today and stay in the loop with my latest articles designed to help you become a location independent, **digital dirtbag.**
-
-_**Adventure in My Veins**_  is all about helping you find the balance between work, life and travel without having to tie yourself down and let another day at the crag pass you by.
-
-Be sure to subscribe to the A I M V Publication via Medium, or alternatively you can sign up for free on the blog.
+If you think you would be a great fit for the **Digital Dirtbag** series or know someone who might be interested in sharing their story then feel free to shoot me a message on Instagram [**@adventureinmyveins**](https://www.instagram.com/adventureinmyveins).

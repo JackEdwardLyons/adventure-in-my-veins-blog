@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="header__left">
-      <Logo />
+      <Logo v-if="showLogo" />
     </div>
 
     <div class="header__right">
@@ -18,9 +18,12 @@ export default {
   components: {
     ToggleTheme,
     Logo
+  },
+  props: {
+    showLogo: {
+      type: Boolean,
+      default: true
+    }
   }
 };
 </script>
-
-<style>
-</style>

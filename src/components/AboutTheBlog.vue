@@ -1,7 +1,7 @@
 <template>
   <section class="about-the-blog flex-grid text-center">
     <div class="column" style="margin: 0;">
-      <g-image src="/images/demo-logo-2.png" alt="collage" style="margin-top: -2rem;" />
+      <g-image src="/images/demo-logo-2-tp.png" alt="collage" style="margin-top: -2rem;" />
       <div style="position: relative; top: -3rem; max-width: 700px; margin: 0 auto;">
         <!-- <h2 class="type--rock-salt">Adventure In My Veins</h2> -->
         <p>
@@ -10,7 +10,9 @@
           I show you how to become a digital dirtbag and travel the world sustainably.
         </p>
       </div>
-
+      <!-- 
+        * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.
+       -->
 
       </div>
     <!-- <div class="column">

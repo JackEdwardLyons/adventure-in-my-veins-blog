@@ -3,8 +3,8 @@
     <h4 class="text-center" v-text="'Join the AIMV Community.'" />
 
     <div class="centered">
-      <vue-typed-js 
-        :strings="typedStrings" 
+      <vue-typed-js
+        :strings="typedStrings"
         :backSpeed="50"
         :typeSpeed="30"
         :backDelay="1000"
@@ -20,7 +20,14 @@
 
     <!-- Mailchimp Signup -->
     <div class="error-message" v-show="message !== null">{{ message }}</div>
-    <form :action="url" method="POST" novalidate target="_blank" v-on:submit="submitForm">
+    <form
+      class="flex-grid"
+      :action="url"
+      method="POST"
+      novalidate
+      target="_blank"
+      v-on:submit="submitForm"
+    >
       <input name="EMAIL" type="email" :placeholder="placeholder" v-model="email" required />
       <button type="submit" v-text="'Subscribe'" />
     </form>
@@ -61,15 +68,15 @@ export default {
     }
   },
   computed: {
-    typedStrings () {
+    typedStrings() {
       return [
-        'climb around the world without 🔥 all your 💵.',
-        'read more digital dirtbag posts ⛰.',
-        'become a BETA user for my web apps 🎮.',
-        'join a 🌎 community of climbers 💪.',
-        'climb by day and code by night 🖥.', 
-        'learn how to become location independent 🌎.'
-      ]
+        "climb around the world without 🔥 all your 💵.",
+        "read more digital dirtbag posts ⛰.",
+        "become a BETA user for my web apps 🎮.",
+        "join a 🌎 community of climbers 💪.",
+        "climb by day and code by night 🖥.",
+        "learn how to become location independent 🌎."
+      ];
     }
   },
   methods: {
@@ -116,7 +123,6 @@ $brandColor: #5c97bf;
     padding: 18px 20px;
     font-size: 20px;
     margin-bottom: 15px;
-    text-align: center;
     border: none;
     outline: none;
     color: #444;
@@ -129,8 +135,10 @@ $brandColor: #5c97bf;
     -moz-box-shadow: inset 0 -1px rgba(0, 0, 0, 0.1);
     box-shadow: inset 0 -1px rgba(0, 0, 0, 0.1);
   }
+
   [type="submit"] {
     width: 100%;
+    margin-left: 0;
     background-color: $brandColor;
     color: $white;
     font-size: 18px;
@@ -143,6 +151,18 @@ $brandColor: #5c97bf;
     &:hover {
       background-color: darken($brandColor, 5%);
       transition: 0.3s ease;
+    }
+  }
+
+  @media screen and (min-width: 769px) {
+    input[type="email"] {
+      width: 75%;
+    }
+
+    [type="submit"] {
+      width: auto;
+      min-width: 150px;
+      margin-left: 1rem;
     }
   }
 
