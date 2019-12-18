@@ -24,7 +24,7 @@ Welcome, **Quest Henkart.**
 
 **Quest Henkart**
 
-## **1. Can you tell us a little bit about yourself, namely how and why you got into climbing, travelling and adventuring around the world?**
+## Q: Can you tell us a little bit about yourself, namely how and why you got into climbing, travelling and adventuring around the world?
 
 Well, I sort of found climbing by accident. I had just graduated from University and was lining up the first step in my career. As the months wore on, I saw that my perception of happiness was directly correlated to the possessions that I had and the money I was making. I had a bit of an epiphany and decided that this was not the direction I wanted to take in life, so **I sold everything I owned and used that money to book a one way ticket to Thailand.**
 
@@ -34,11 +34,11 @@ I befriended a local climbing guide who taught me how to climb and lent me gear 
 
 > **Over time, travelling became my passion, rock-climbing became my purpose, and diving became my means.**
 
-![](https://miro.medium.com/max/60/1*KG6Mb2BJAwRP75OQxf0dYg.jpeg?q=20)
+![Ha Long Bay, Vietnam](/images/uploads/quest-henkart-003.jpeg "Ha Long Bay, Vietnam")
 
 **Ha Long Bay, Vietnam, a climbers and divers paradise. Taken from** [**Quest’s Blog.**](http://www.travelpod.com/travel-blog-entries/quest/1/1282743126/tpod.html)
 
-# **2. It seems that you truly do live in the “digital world”, can you give us a bit of a background on what you do?**
+## Q. It seems that you truly do live in the “digital world”, can you give us a bit of a background on what you do?
 
 Over the course of my years abroad, I began to notice a growing trend. While I was working long hours at a dive shop or out on the boat, there was a growing number of folks who just worked a few hours a day and made a western salary. Their secret was to work remotely as a Software Engineer or on some sort of app development.
 
@@ -52,7 +52,7 @@ As I continued learning and developing my skills, I realized that I was not lear
 
 After some searching, I found the best one, **Hack Reactor**, which was as intense as possible and as advanced as I could find. You can check it out [**here.**](http://www.hackreactor.com/)
 
-![](https://miro.medium.com/max/60/1*3eaSRPiLUa1rTM2DldXx2g.png?q=20)
+![Hack Reactor](/images/uploads/quest-henkart-004.png "Hack Reactor")
 
 The school boasted a 99% hiring rate upon graduating and a $105,000 average starting salary, allowing people to take the course remotely or in person. At 6 days a week, 11–13 hours/day, at the end of the 3 month period, a person would have 1000 hours of applied training, education, and real development experience, along with lifetime job placement support which can really come in handy when finding jobs remotely.
 
@@ -62,11 +62,11 @@ I plan on investing these next few years saving money, and further mastering my 
 
 The best part about being a software engineer, is that the job demand only increases, and not only does working remotely help the local economy by pumping money into it and not taking jobs, but my ability to survive is totally independent from the location in which I live.
 
-![](https://miro.medium.com/max/60/1*uTUqIHeSstE1v9tN191TCg.jpeg?q=20)
+![Quest working from home.](/images/uploads/quest-henkart-005.jpeg "Quest working from home.")
 
 **Quest in his element as a freshly graduated software engineer**
 
-# **3. On top of your “digital skills”, you’ve also got a pretty impressive “adventure” resume, can you share the other cool skills you’ve developed, and how they have helped fund your travels?**
+## Q: On top of your “digital skills”, you’ve also got a pretty impressive “adventure” resume, can you share the other cool skills you’ve developed, and how they have helped fund your travels?
 
 As a result of my clear intention of finding sustainable work on the road, I have built a very impressive travelling resume for myself and a garage full of certifications. Although only two of them turned out to be sustainable and profitable. These two were Fire dancing and Scuba Diving.
 
@@ -74,7 +74,7 @@ I fell into Fire dancing in Tonsai, it began as just a hobby, and quickly evolve
 
 I started my company “Meditation in Motion” when I moved to Honduras back in 2011, and obtained my first residency at the most popular club/bar in town. Twice a week I would perform on their busiest nights. I would drink for free, the bar paid me $20, and I would make anywhere between $20-$150 (average about $50) in tips. This alone was plenty to live off of on the tiny island of [**Utila**](http://www.aboututila.com/).
 
-![](https://miro.medium.com/max/60/1*wYlf8hlZlC8UAv8-dfzBFg.jpeg?q=20)
+![A photo of Quest scuba diving](/images/uploads/quest-henkart-006.jpeg "A photo of Quest scuba diving")
 
 **Playing about in the deep blue sea; not a bad way to earn a buck, eh!**
 
@@ -96,11 +96,11 @@ It paid really well though, and freelancing was a lot less time consuming (freel
 
 Courses generally have 3–6 people in them. Suffice it to say, if I taught 1 course of 4 people in Thailand, my expenses for the entire month were paid for. The rest of the month was reserved for climbing.
 
-![](https://miro.medium.com/max/60/1*48Do1UsEI_JV9G2uqpwk6A.jpeg?q=20)
+![Quest putting on an impressive show in Tonsai, Thailand.](/images/uploads/quest-henkart-007.jpeg "Quest putting on an impressive show in Tonsai, Thailand.")
 
 **Quest putting on an impressive show in Tonsai, Thailand.**
 
-# **4. What are three essential tips you would give to anyone who wants to travel cheaply, for as long as possible and even make a buck along the way?**
+## 4. What are three essential tips you would give to anyone who wants to travel cheaply, for as long as possible and even make a buck along the way?
 
 First of all, I always assume I can’t afford anything. Even if I’m not broke, I just pretend I’m broke. I tend to spend less that way. **Also understanding that there is nothing wrong with someone else’s half-eaten food.**
 
@@ -116,7 +116,7 @@ I recently began to use an App called [**“Daily Budget”** **on the iPhone**.
 
 [**Daily Budget App**](https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8)
 
-# **5. Because you‘ve been on so many long term expeditions around the world, do you have any tips to handle the change from “adventure/fantasy land” back to the “real world”?**
+## **Q: Because you‘ve been on so many long term expeditions around the world, do you have any tips to handle the change from “adventure/fantasy land” back to the “real world”?**
 
 This was an entire skill in itself and took me a long time to develop. The reverse culture shock is probably one of the reasons I just kept on travelling. I only could last a maximum of 2–3 weeks in the States before I threw my hands in the air and took a one way trip somewhere else.
 
@@ -132,7 +132,7 @@ But really, that point of view is just as culturally insensitive as the city per
 
 **Kalymnos Magic!**
 
-# **6. What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?**
+## **Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?**
 
 I think the most important advice I can give anyone who has a desire to travel the world or wanderlust is **AVOID DEBT.** One of my favourite quotes:
 
@@ -150,7 +150,7 @@ As far as jobs go, **all the jobs I’ve ever got abroad have been acquired upon
 
 A loose plan is nice to have as well, but it is important to keep it flexible. Become a yes person, and don’t stick to your plan, just have it in case a better one doesn’t present itself.
 
-# **7. What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?**
+## **Q: What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?**
 
 Like I mentioned before, my current stage in life will be spent preparing for my next big thing, which will be a tech-based sustainable intentional community somewhere in the world with incredible climbing, on the beach, with lots of slacklines.
 
@@ -174,49 +174,49 @@ Beautiful limestone, incredibly cheap, gorgeous beaches, huge climbing atmospher
 
 I saved the best for last. Don’t listen to all the hype about how this place has changed. It’s still the same place, with the same community, locals, and climbing. Words can’t express how much this place means to me, well actually they can. I wrote this poem a few years ago, I don’t think an explanation can do any better:
 
-_**The limestone cliffs provide the key**_
+**_The limestone cliffs provide the key_**
 
-_**As I head forth to where I’m free**_
+**_As I head forth to where I’m free_**
 
-_**the Jungle builds devouring the beach**_
+**_the Jungle builds devouring the beach_**
 
-_**as Climbers climb and buddhists preach**_
+**_as Climbers climb and buddhists preach_**
 
-_**We float on bright, vibrant blue water**_
+**_We float on bright, vibrant blue water_**
 
-_**where fire burns, and only gets hotter**_
+**_where fire burns, and only gets hotter_**
 
-_**here buckets are filled, and slacklines are set**_
+**_here buckets are filled, and slacklines are set_**
 
-_**and the true adventurers are those we just met**_
+**_and the true adventurers are those we just met_**
 
-_**in bungalows we stay right on the sea**_
+**_in bungalows we stay right on the sea_**
 
-_**with backgammon in hand we enjoy our tea**_
+**_with backgammon in hand we enjoy our tea_**
 
-_**music we play near every day**_
+**_music we play near every day_**
 
-_**as base jumpers jump right into the fray**_
+**_as base jumpers jump right into the fray_**
 
-_**the food is the best, curries and all**_
+**_the food is the best, curries and all_**
 
-_**and climbers scream whenever they fall**_
+**_and climbers scream whenever they fall_**
 
-_**at night we drink while fire dancers spin**_
+**_at night we drink while fire dancers spin_**
 
-_**and all those we meet become our kin**_
+**_and all those we meet become our kin_**
 
-_**true in the heart and pure in the mind**_
+**_true in the heart and pure in the mind_**
 
-_**all of the locals respond in kind**_
+**_all of the locals respond in kind_**
 
-_**this is the place where I can be me**_
+**_this is the place where I can be me_**
 
-_**where beauty flows as far as I see**_
+**_where beauty flows as far as I see_**
 
-_**and surrounded by this glorious rocky rampart**_
+**_and surrounded by this glorious rocky rampart_**
 
-_**at last I return to the true home of my heart.**_
+**_at last I return to the true home of my heart._**
 
 ![](https://miro.medium.com/max/60/1*luJUWi04Nd7UyEqbe2XdQA.jpeg?q=20)
 
@@ -240,7 +240,7 @@ If you’re an adventurous soul with a passion for the mountains and a lust for 
 
 Sign up today and stay in the loop with my latest articles designed to help you become a location independent, **digital dirtbag.**
 
-_**Adventure in My Veins**_  is all about helping you find the balance between work, life and travel without having to tie yourself down and let another day at the crag pass you by.
+**_Adventure in My Veins_**  is all about helping you find the balance between work, life and travel without having to tie yourself down and let another day at the crag pass you by.
 
 Be sure to subscribe to the A I M V Publication via Medium, or alternatively you can sign up for free on the blog.
 
