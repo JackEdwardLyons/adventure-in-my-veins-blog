@@ -17,6 +17,7 @@ body {
   --header-height: 80px;
   --radius: 5px;
   --footer-bg: url("/images/footer-bg.jpg");
+  --logo: "/images/AIMV-logo-black.png";
 }
 
 // Make  things smaller for mobile
@@ -40,4 +41,5 @@ body[data-theme="dark"] {
   --title-color: #fff;
   --link-color: #af9cef;
   --footer-bg: url("/images/footer-bg-dark.jpg");
+  --logo: "/images/AIMV-logo-white.png";
 }

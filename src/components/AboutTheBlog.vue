@@ -1,10 +1,10 @@
 <template>
   <section class="about-the-blog flex-grid text-center">
     <div class="column" style="margin: 0;">
-      <g-image src="/images/demo-logo-2-tp.png" alt="collage" style="margin-top: -2rem;" />
-      <div style="position: relative; top: -3rem; max-width: 700px; margin: 0 auto;">
-        <!-- <h2 class="type--rock-salt">Adventure In My Veins</h2> -->
-        <p>
+      <g-image :src="this.logoUrl" alt="AIMV logo" class="aimv-logo mt-4" />
+      <div style="max-width: 700px; margin: 0 auto;">
+        <hr  style="max-width: 100px; color: rgba(0, 0, 0, 0.5);" />
+        <p class="my-2">
           An adventure publication crafted for those wanderlusting, thrill seeking,
           mountain lovers who want to build a location independent lifestyle. 
           I show you how to become a digital dirtbag and travel the world sustainably.
@@ -30,6 +30,16 @@ export default {
     InstagramIcon,
     WifiIcon,
     MailIcon
+  },
+  data () {
+    return {
+      logoUrl: ''
+    }
+  },
+  mounted () {
+    var style = getComputedStyle(document.body);
+    console.log(style.getPropertyValue('--logo'));
+    this.logoUrl = JSON.parse(style.getPropertyValue('--logo'));
   }
 };
 </script>

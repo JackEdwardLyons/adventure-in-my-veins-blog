@@ -1,11 +1,8 @@
 <template functional>
   <footer class="footer">
     <span class="footer__logo">
-      <g-image
-        alt="AIMV logo"
-        src="https://codex-themes.com/thegem/sites/travel-blog/wp-content/uploads/2019/05/35.png"
-      />
-      <p class="text-center">Built with &hearts; by Jack Lyons.</p>
+      <g-image src="/images/AIMV-logo-white.png" alt="AIMV logo" class="aimv-logo mt-4" />
+      <!-- <p class="text-center">Built with &hearts; by Jack Lyons.</p> -->
     </span>
   </footer>
 </template>
@@ -33,10 +30,8 @@
     var(--footer-bg);
 
   &__logo {
-    max-width: 250px;
     position: absolute;
     bottom: 2rem;
-    color: white;
   }
 }
 
