@@ -12,17 +12,11 @@ description: >-
   Meghan Kahnle shows us how to design a life around passion, purpose and
   people.
 ---
-> I am a world traveler, trained graphic designer, painter, rock climber, and passionate community-oriented person. The goal of my work is to magically combine all of those things. I also want to thank those communities and people who make my life so full and diverse by giving back to them. Those who breathe love, support, and the pay-it-forward mentality are the backbone of my purpose. – Meghan Kahnle
+I am a world traveler, trained graphic designer, painter, rock climber, and passionate community-oriented person. The goal of my work is to magically combine all of those things. I also want to thank those communities and people who make my life so full and diverse by giving back to them. Those who breathe love, support, and the pay-it-forward mentality are the backbone of my purpose. – Meghan Kahnle
 
+Meg's mission can be summed up as follows: To be able to find purpose, build relationships within the community and spend one’s time pursuing creative projects that blend seamlessly around the mountains. Best of all, Meg’s art is focused on giving back to the climbing community and the beautiful mountain landscapes which provide her with so much joy in life.
 
-
-I really do admire Meg’s passion and believe in her mission:
-
-To be able to find purpose, build relationships within the community and spend one’s time pursuing creative projects that blend seamlessly around the mountains sounds like a pretty damn good way to live life if you ask me.
-
-And best of all, Meg’s art is focused on giving back to the climbing community and the beautiful mountain landscapes which provide her with so much joy in life.
-
-Find out in this interview how Meg experiments with art and follows her heart in order to design a Digital Dirtbag life that keeps her healthy, happy and on track to achieving her life goals.
+In this interview you'll learn how Meg experiments with art and follows her heart to design a Digital Dirtbag life that keeps her healthy, happy and on track to achieving her life goals.
 
 ![Meg in her element at Smith Rock](/images/uploads/meghan-001.jpeg "Meg in her element at Smith Rock")
 

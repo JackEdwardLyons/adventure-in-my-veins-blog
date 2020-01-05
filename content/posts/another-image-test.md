@@ -24,7 +24,7 @@ Welcome, **Quest Henkart.**
 
 _Quest Henkart_
 
-## Q: Can you tell us a little bit about yourself, namely how and why you got into climbing, travelling and adventuring around the world?
+## _Q: Can you tell us a little bit about yourself, namely how and why you got into climbing, travelling and adventuring around the world?_
 
 Well, I sort of found climbing by accident. I had just graduated from University and was lining up the first step in my career. As the months wore on, I saw that my perception of happiness was directly correlated to the possessions that I had and the money I was making. I had a bit of an epiphany and decided that this was not the direction I wanted to take in life, so **I sold everything I owned and used that money to book a one way ticket to Thailand.**
 
@@ -38,7 +38,7 @@ I befriended a local climbing guide who taught me how to climb and lent me gear 
 
 _Ha Long Bay, Vietnam, a climbers and divers paradise. Taken from [**Quest’s Blog.**](http://www.travelpod.com/travel-blog-entries/quest/1/1282743126/tpod.html)_
 
-## Q. It seems that you truly do live in the “digital world”, can you give us a bit of a background on what you do?
+## _Q. It seems that you truly do live in the “digital world”, can you give us a bit of a background on what you do?_
 
 Over the course of my years abroad, I began to notice a growing trend. While I was working long hours at a dive shop or out on the boat, there was a growing number of folks who just worked a few hours a day and made a western salary. Their secret was to work remotely as a Software Engineer or on some sort of app development.
 
@@ -66,7 +66,7 @@ The best part about being a software engineer, is that the job demand only incre
 
 _Quest in his element as a freshly graduated software engineer_
 
-## Q: On top of your “digital skills”, you’ve also got a pretty impressive “adventure” resume, can you share the other cool skills you’ve developed, and how they have helped fund your travels?
+## _Q: On top of your “digital skills”, you’ve also got a pretty impressive “adventure” resume, can you share the other cool skills you’ve developed, and how they have helped fund your travels?_
 
 As a result of my clear intention of finding sustainable work on the road, I have built a very impressive travelling resume for myself and a garage full of certifications. Although only two of them turned out to be sustainable and profitable. These two were Fire dancing and Scuba Diving.
 
@@ -114,7 +114,7 @@ Now that travelling with a mobile device is the norm, there are a ton of apps th
 
 I recently began to use an App called [**“Daily Budget”** **on the iPhone**.](https://itunes.apple.com/us/app/daily-budget-original-fastest/id651896614?mt=8) It’s really awesome. I set the amount of money I want to spend that month, and it keeps track of my daily limit. Everything I buy, I throw it into the app and it keeps track of whether I am below my daily limit or above, and carries the surplus or deficit over to the next day.
 
-## Q: Because you‘ve been on so many expeditions around the world, do you have any tips to handle the change from “adventure/fantasy" back to the “real world”?
+## _Q: Because you‘ve been on so many expeditions around the world, do you have any tips to handle the change from “adventure/fantasy" back to the “real world”?_
 
 This was an entire skill in itself and took me a long time to develop. The reverse culture shock is probably one of the reasons I just kept on travelling. I only could last a maximum of 2–3 weeks in the States before I threw my hands in the air and took a one way trip somewhere else.
 
@@ -130,7 +130,7 @@ But really, that point of view is just as culturally insensitive as the city per
 
 _Kalymnos Magic!_
 
-## Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?
+## _Q: What is the one piece of actionable advice you would give to anyone looking to organize a long term, tropical island, rock climbing adventure?_
 
 I think the most important advice I can give anyone who has a desire to travel the world or wanderlust is **AVOID DEBT.** One of my favourite quotes:
 
@@ -148,7 +148,7 @@ As far as jobs go, **all the jobs I’ve ever got abroad have been acquired upon
 
 A loose plan is nice to have as well, but it is important to keep it flexible. Become a yes person, and don’t stick to your plan, just have it in case a better one doesn’t present itself.
 
-## Q: What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?
+## _Q: What do you see yourself doing in the long term? Still travelling the globe or eventually settling down in one place having a family, job, house…?_
 
 Like I mentioned before, my current stage in life will be spent preparing for my next big thing, which will be a tech-based sustainable intentional community somewhere in the world with incredible climbing, on the beach, with lots of slacklines.
 
@@ -158,7 +158,7 @@ The goal is to work, perhaps in consulting, remote or contract work for a few mo
 
 _Quest biting off a bit more than he could chew with this slackline attempt_
 
-## Q: And finally, what are your three favourite climbing destinations and why?
+## _Q: And finally, what are your three favourite climbing destinations and why?_
 
 #### [**El Potrero Chico, Hidalgo, Mexico**](http://www.thecrag.com/climbing/mexico/el-potrero-chico)
 

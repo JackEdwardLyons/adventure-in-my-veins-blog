@@ -38,7 +38,6 @@ export default {
   },
   mounted () {
     var style = getComputedStyle(document.body);
-    console.log(style.getPropertyValue('--logo'));
     this.logoUrl = JSON.parse(style.getPropertyValue('--logo'));
   }
 };
