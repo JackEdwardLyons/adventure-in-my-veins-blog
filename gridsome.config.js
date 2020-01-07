@@ -29,12 +29,12 @@ module.exports = {
         typeName: 'InstagramPhoto' // The GraphQL type you want the photos to be added under. Defaults to InstagramPhoto
       }
     },
-    // {
-    //   use: '@gridsome/plugin-google-analytics',
-    //   options: {
-    //     id: 'UA-XXXXXXXXX-X'
-    //   }
-    // },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-155581906-1'
+      }
+    },
     {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
