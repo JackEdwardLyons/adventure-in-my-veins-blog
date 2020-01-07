@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'AIMV',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.',
+  siteName: 'Adventure In My Veins',
+  siteDescription: 'An adventure publication crafted for wanderlusting, mountain lovers who want to build a location independent lifestyle.',
 
   templates: {
     Post: '/:title',
