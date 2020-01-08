@@ -7,12 +7,12 @@
         <p class="my-2">
           An adventure publication crafted for those wanderlusting, thrill seeking,
           mountain lovers who want to build a location independent lifestyle. 
-          I show you how to become a digital dirtbag and travel the world sustainably.
+          I'll show you how to sustainably travel the world as a digital dirtbag!
         </p>
-      </div>
       <!-- 
         * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.
        -->
+      </div>
 
       </div>
     <!-- <div class="column">

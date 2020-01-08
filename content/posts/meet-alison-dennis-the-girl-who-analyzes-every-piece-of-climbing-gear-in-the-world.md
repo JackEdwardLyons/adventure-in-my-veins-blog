@@ -9,7 +9,7 @@ tags:
   - featured
   - affiliate business
 cover_image: /images/uploads/weigh-my-rack-001.jpeg
-description: 'Wow, another new post. This is awesome CMS'
+description: 'What do you do when your favourite hobby is to collect and compare climbing gear from around the world? Well, you start an incredibly successful business, of course.'
 ---
 What do you do when your favourite hobby is to collect and compare climbing gear from around the world? Well, you start an incredibly successful business, of course.
 
