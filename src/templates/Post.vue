@@ -68,7 +68,7 @@ export default {
         },
         {
           property: "og:image",
-          content: this.$page.post.cover_image || ""
+          content: `https://www.adventureinmyveins.com${this.$page.post.cover_image}` || ""
         },
         {
           property: 'og:image:width',

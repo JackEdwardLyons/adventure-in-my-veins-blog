@@ -54,7 +54,7 @@ export default {
     meta: [
         {
           name: "description",
-          content: 'Welcome to Adventure In My Veins'
+          content: 'An adventure publication crafted for wanderlusting, thrill seeking, mountain lovers who want to build a location independent lifestyle.'
         },
         {
           property: "og:title",
@@ -62,7 +62,7 @@ export default {
         },
         {
           property: "og:image",
-          content: '/images/AIMV-logo-black.png'
+          content: 'https://www.adventureinmyveins.com/images/AIMV-logo-black.png'
         },
         {
           property: 'og:image:width',
