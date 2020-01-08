@@ -69,6 +69,14 @@ export default {
         {
           property: "og:image",
           content: this.$page.post.cover_image || ""
+        },
+        {
+          property: 'og:image:width',
+          content: '500'
+        },
+        {
+          property: 'og:image:height',
+          content: '500'
         }
       ]
     };

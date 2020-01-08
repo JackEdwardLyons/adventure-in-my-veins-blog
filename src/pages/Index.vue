@@ -60,10 +60,18 @@ export default {
           property: "og:title",
           content: 'Welcome to Adventure In My Veins'
         },
-        // {
-        //   property: "og:image",
-        //   content: '/images/AIMV-logo-black.png'
-        // }
+        {
+          property: "og:image",
+          content: '/images/AIMV-logo-black.png'
+        },
+        {
+          property: 'og:image:width',
+          content: '300'
+        },
+        {
+          property: 'og:image:height',
+          content: '300'
+        }
       ]
   },
   computed: {
