@@ -68,7 +68,7 @@ export default {
         },
         {
           property: "og:image",
-          content: this.$page.post.image || ""
+          content: this.$page.post.cover_image || ""
         }
       ]
     };

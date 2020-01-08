@@ -50,7 +50,21 @@ export default {
     AboutTheBlog
   },
   metaInfo: {
-    title: "Home"
+    title: "Welcome to Adventure In My Veins",
+    meta: [
+        {
+          name: "description",
+          content: 'Welcome to Adventure In My Veins'
+        },
+        {
+          property: "og:title",
+          content: 'Welcome to Adventure In My Veins'
+        },
+        // {
+        //   property: "og:image",
+        //   content: '/images/AIMV-logo-black.png'
+        // }
+      ]
   },
   computed: {
     featuredPosts() {
@@ -70,6 +84,9 @@ export default {
       });
       return nonFeaturedPosts
     }
+  },
+  mounted () {
+    console.log(this.$page)
   }
 };
 </script>
