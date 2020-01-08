@@ -3,9 +3,11 @@ title: Duncan Brown shares how he lives the “Digital Dirtbag” dream
 date: 2015-06-09T00:00:00.000Z
 published: true
 tags:
-  - Markdown
-  - Releases
+  - athlete by choice
+  - online coaching
+  - health & fitness
   - featured
+  - digital dirtbag
 cover_image: /images/uploads/duncan-brown-header.jpeg
 description: >-
   In this interview, Duncan shows us that location independence truly is
