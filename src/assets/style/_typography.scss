@@ -2,7 +2,7 @@
 // @import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,600&display=swap');
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,600,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway:800&display=swap');
 
 html {
   font-size: var(--base-font-size);
@@ -74,14 +74,16 @@ ol {
   }
 }
 
-.type--rock-salt {
-  font-family: 'Rock Salt', cursive;
+.type--raleway {
+  font-family: 'Raleway', sans-serif;
   line-height: 2;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
+  font-size: 2rem;
 }
 
 .aimv-logo {
-  max-width: 400px;
+  width: 400px;
+  max-width: 90%;
 }
 
 .post hr {
