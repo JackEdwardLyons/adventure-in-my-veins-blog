@@ -1,6 +1,6 @@
 <template>
   <section class="shadow-md mailchimp">
-    <h4 class="text-center" v-text="'Join the AIMV Community today!'" />
+    <h4 class="text-center m-0" v-text="'Join the AIMV Community today!'" />
 
     <div class="centered">
       <vue-typed-js
