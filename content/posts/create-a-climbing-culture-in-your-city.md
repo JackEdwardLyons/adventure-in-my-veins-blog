@@ -3,8 +3,10 @@ title: Create a climbing culture in your city!
 date: 2019-01-07T00:00:00.000Z
 published: true
 tags:
-  - Potatoes
-  - Cover Image
+  - burnley bouldering wall
+  - DIY climbing wall
+  - bouldering
+  - city planning
 cover_image: /images/uploads/burnley-001.jpeg
 description: >-
   It’s 6:30am, sunrise, the morning is crisp. I’m out on the streets bright and

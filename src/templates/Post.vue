@@ -140,6 +140,7 @@ query Post ($id: ID!) {
 }
 
 .signup-area {
+  padding-top: 2rem;
   margin-top: 3rem;
   border-top: 1px solid lightgrey;
 }
