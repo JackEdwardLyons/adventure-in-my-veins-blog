@@ -4,7 +4,7 @@
 
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
-      <PostMeta :post="$page.post" />
+      <post-meta :post="$page.post" />
     </div>
 
     <div class="post content-box">
@@ -15,16 +15,16 @@
       <div class="post__content" v-html="$page.post.content" />
 
       <div class="post__footer">
-        <PostTags :post="$page.post" />
+        <post-tags :post="$page.post" />
+        <post-social-sharing />
       </div>
 
       <div class="signup-area">
         <mailchimp-form />
-        <div class="sharethis-inline-share-buttons"></div>
       </div>
     </div>
 
-    <div class="post-comments" id="share-this">
+    <div class="post-comments">
       <!-- Add comment widgets here -->
     </div>
   </Layout>
@@ -35,14 +35,17 @@ import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import TheHeader from "~/components/TheHeader";
 import MailchimpForm from "~/components/MailchimpForm";
+import PostSocialSharing from "~/components/PostSocialSharing"
 
 export default {
   components: {
     PostMeta,
     PostTags,
     TheHeader,
-    MailchimpForm
+    MailchimpForm,
+    PostSocialSharing
   },
+
   metaInfo() {
     return {
       title: this.$page.post.title,
@@ -53,15 +56,6 @@ export default {
         }
       ]
     };
-  },
-  mounted() {
-    const plugin = document.createElement("script");
-    plugin.setAttribute(
-      "src",
-      "https://platform-api.sharethis.com/js/sharethis.js#property=5e1bd1cebca2330013ed3f38&product=inline-share-buttons&cms=sop"
-    );
-    plugin.async = true;
-    document.head.appendChild(plugin);
   }
 };
 </script>
