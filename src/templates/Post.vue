@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <the-header />
-    
+
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
       <PostMeta :post="$page.post" />
@@ -20,10 +20,11 @@
 
       <div class="signup-area">
         <mailchimp-form />
+        <div class="sharethis-inline-share-buttons"></div>
       </div>
     </div>
 
-    <div class="post-comments">
+    <div class="post-comments" id="share-this">
       <!-- Add comment widgets here -->
     </div>
   </Layout>
@@ -32,8 +33,8 @@
 <script>
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-import TheHeader from '~/components/TheHeader';
-import MailchimpForm from '~/components/MailchimpForm';
+import TheHeader from "~/components/TheHeader";
+import MailchimpForm from "~/components/MailchimpForm";
 
 export default {
   components: {
@@ -52,6 +53,15 @@ export default {
         }
       ]
     };
+  },
+  mounted() {
+    const plugin = document.createElement("script");
+    plugin.setAttribute(
+      "src",
+      "https://platform-api.sharethis.com/js/sharethis.js#property=5e1bd1cebca2330013ed3f38&product=inline-share-buttons&cms=sop"
+    );
+    plugin.async = true;
+    document.head.appendChild(plugin);
   }
 };
 </script>
@@ -103,7 +113,6 @@ query Post ($id: ID!) {
   }
 
   &__content {
-
     h2 {
       font-size: 1.5rem;
       line-height: 1.4;
