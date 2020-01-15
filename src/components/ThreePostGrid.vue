@@ -26,9 +26,10 @@ export default {
 
 <style lang="scss">
 .three-post-grid {
-  min-height: 60vh;
+  height: 50vh;
   padding: 0 1.5rem;
   display: flex;
+  max-height: 400px;
 
   .post-title {
     font-size: 1.2rem;
