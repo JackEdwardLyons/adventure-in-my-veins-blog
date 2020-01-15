@@ -9,7 +9,10 @@
       :media="$page.post.cover_image"
       inline-template
     >
-      <network class="social-sharing__icons">
+      <div class="social-sharing__icons">
+        <p class="share-this"> 
+          <strong >Share this post:</strong>
+        </p>
         <network network="facebook">
           <g-image
             alt="Facebook logo"
@@ -50,7 +53,7 @@
             src="/icons/social/pinterest-icon.svg"
           />
         </network>
-      </network>
+      </div>
     </social-sharing>
   </article>
 </template>
@@ -69,14 +72,7 @@ export default {
 </script>
 
 <style lang="scss">
-.icon {
-  width: 24px;
-  margin: 0.5rem;
-  cursor: pointer;
-
-  &:hover {
-    transform: scale(1.2);
-    transition: 0.3s ease;
-  }
+.share-this {
+  margin-bottom: 0.5rem;
 }
 </style>
