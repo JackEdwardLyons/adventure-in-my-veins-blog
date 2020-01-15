@@ -3,20 +3,24 @@
     <div class="column" style="margin: 0;">
       <g-image :src="this.logoUrl" alt="AIMV logo" class="aimv-logo mt-4" />
       <div style="max-width: 700px; margin: 0 auto;">
-        <hr  style="max-width: 100px; color: rgba(0, 0, 0, 0.5);" />
+        <hr style="max-width: 100px; color: rgba(0, 0, 0, 0.5);" />
         <p class="my-2">
           An adventure publication crafted for those wanderlusting, thrill seeking,
-          mountain lovers who want to build a location independent lifestyle. 
-          I show you how to become a digital dirtbag and travel the world sustainably.
-        </p>
-      </div>
-      <!-- 
-        * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.
-       -->
+          mountain lovers who want to build a location independent lifestyle.
 
+          <br /><br>Here you'll find tips on how to learn a creative or digital skill (like coding), build a portfolio and become a freelancer, work remotely and climb around the world, and even start your own online business from scratch 🚀
+          <a
+            class="text-link"
+            href="https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209"
+          >Click here to join the digital dirtbag community</a>
+        </p>
+        <!-- 
+        * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.
+        -->
       </div>
+    </div>
     <!-- <div class="column">
-    </div> -->
+    </div>-->
   </section>
 </template>
 
@@ -31,14 +35,14 @@ export default {
     WifiIcon,
     MailIcon
   },
-  data () {
+  data() {
     return {
-      logoUrl: ''
-    }
+      logoUrl: ""
+    };
   },
-  mounted () {
+  mounted() {
     var style = getComputedStyle(document.body);
-    this.logoUrl = JSON.parse(style.getPropertyValue('--logo'));
+    this.logoUrl = JSON.parse(style.getPropertyValue("--logo"));
   }
 };
 </script>
@@ -74,5 +78,15 @@ export default {
       margin: 2rem;
     }
   }
+}
+
+.text-link {
+  position: relative;
+  display: inline-block;
+  clear: both;
+  position: relative;
+  z-index: 1;
+  // text-decoration: none;
+  // color: var(--link-color);
 }
 </style>

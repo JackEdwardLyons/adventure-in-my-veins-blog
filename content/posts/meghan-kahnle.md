@@ -5,8 +5,8 @@ title: >-
 date: 2019-02-06T00:00:00.000Z
 published: true
 tags:
-  - Test files
-  - featured
+  - artist
+  - digital dirtbag
 cover_image: /images/uploads/meghan-cover-image.jpeg
 description: >-
   Meghan Kahnle shows us how to design a life around passion, purpose and

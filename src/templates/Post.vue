@@ -1,10 +1,10 @@
 <template>
   <Layout>
     <the-header />
-    
+
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
-      <PostMeta :post="$page.post" />
+      <post-meta :post="$page.post" />
     </div>
 
     <div class="post content-box">
@@ -15,7 +15,8 @@
       <div class="post__content" v-html="$page.post.content" />
 
       <div class="post__footer">
-        <PostTags :post="$page.post" />
+        <post-tags :post="$page.post" />
+        <post-social-sharing />
       </div>
 
       <div class="signup-area">
@@ -32,16 +33,19 @@
 <script>
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-import TheHeader from '~/components/TheHeader';
-import MailchimpForm from '~/components/MailchimpForm';
+import TheHeader from "~/components/TheHeader";
+import MailchimpForm from "~/components/MailchimpForm";
+import PostSocialSharing from "~/components/PostSocialSharing"
 
 export default {
   components: {
     PostMeta,
     PostTags,
     TheHeader,
-    MailchimpForm
+    MailchimpForm,
+    PostSocialSharing
   },
+
   metaInfo() {
     return {
       title: this.$page.post.title,
@@ -131,7 +135,6 @@ query Post ($id: ID!) {
   }
 
   &__content {
-
     h2 {
       font-size: 1.5rem;
       line-height: 1.4;
@@ -168,6 +171,7 @@ query Post ($id: ID!) {
 }
 
 .signup-area {
+  padding-top: 2rem;
   margin-top: 3rem;
   border-top: 1px solid lightgrey;
 }

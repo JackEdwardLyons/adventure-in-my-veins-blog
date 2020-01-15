@@ -4,6 +4,8 @@ date: 2019-10-20T09:37:26.163Z
 published: true
 tags:
   - featured
+  - digital dirtbag
+  - software engineer
 cover_image: /images/uploads/quest-henkart-001.jpeg
 description: >-
   Quest Henkart is a self taught digital dirtbag with an impressive array of

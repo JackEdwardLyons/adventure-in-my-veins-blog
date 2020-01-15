@@ -1,6 +1,6 @@
 <template>
   <section class="shadow-md mailchimp">
-    <h4 class="text-center" v-text="'Join the AIMV Community.'" />
+    <h4 class="text-center m-0" v-text="'Join the AIMV Community today!'" />
 
     <div class="centered">
       <vue-typed-js
@@ -21,15 +21,33 @@
     <!-- Mailchimp Signup -->
     <div class="error-message" v-show="message !== null">{{ message }}</div>
     <form
-      class="flex-grid"
+      class="flex-grid mailchimp-form"
       :action="url"
       method="POST"
       novalidate
       target="_blank"
       v-on:submit="submitForm"
     >
-      <input name="EMAIL" type="email" :placeholder="placeholder" v-model="email" required />
+    <div class="input-flex">
+      <label for="mce-FNAME" hidden>First Name</label>
+      <input id="mce-FNAME" name="FNAME" type="text" v-model="firstName" placeholder="First Name" />
+      <label for="mce-FNAME" hidden>Last Name</label>
+      <input id="mce-LNAME" name="LNAME" type="text" v-model="lastName" placeholder="Last Name" />
+
+    </div>
+    <div class="input-flex">
+      <label for="mce-EMAIL" hidden>Email Address</label>
+      <input
+        id="mce-EMAIL"
+        name="EMAIL"
+        type="email"
+        :placeholder="placeholder"
+        v-model="email"
+        required
+      />
       <button type="submit" v-text="'Subscribe'" />
+
+    </div>
     </form>
   </section>
 </template>
@@ -44,7 +62,9 @@ export default {
   data() {
     return {
       message: null,
-      email: null
+      email: "",
+      firstName: "",
+      lastName: ''
     };
   },
   props: {
@@ -99,24 +119,20 @@ $brandColor: #5c97bf;
   margin: 0 auto;
 }
 
-.email-capture {
-  border: 1px solid #f1f1f1;
-  text-align: center;
-  padding: 3em;
-  margin-top: 3em;
-  margin-bottom: 3em;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  .form-group {
-    width: 100%;
-  }
-}
 .mailchimp {
   width: 100%;
   margin: 0 auto;
 
-  input[type="email"] {
+  .input-flex {
+    display: flex;
+    width: 100%;
+
+    @media screen and (max-width: 769px) {
+      flex-wrap: wrap;
+    }
+  }
+
+  input {
     width: 100%;
     background: #f5f5f5;
     height: 55px;
@@ -156,7 +172,7 @@ $brandColor: #5c97bf;
 
   @media screen and (min-width: 769px) {
     input[type="email"] {
-      width: 75%;
+      // width: 70%;
     }
 
     [type="submit"] {

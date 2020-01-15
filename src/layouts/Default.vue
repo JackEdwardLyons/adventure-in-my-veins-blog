@@ -5,7 +5,7 @@
     </main>
 
     <div class="overlap-on-footer">
-      <h2 class="text-center type--rock-salt">Follow AIMV on Instagram</h2>
+      <h2 class="text-center type--raleway px-2">Follow Adventure In My Veins on Instagram 👇</h2>
       <instagram-feed />
     </div>
 

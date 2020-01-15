@@ -30,7 +30,7 @@ export default {
     },
     maxChars: {
       type: Number,
-      default: 140,
+      default: 180,
       required: false
     }
   },
