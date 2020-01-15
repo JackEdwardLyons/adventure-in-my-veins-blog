@@ -26,8 +26,8 @@ export default {
 
 <style lang="scss">
 .post-item {
-  min-height: 200px;
-  max-height: 350px;
+  min-height: 300px;
+  max-height: 400px;
 }
 .flex-post-grid {
   // min-height: 40vh;

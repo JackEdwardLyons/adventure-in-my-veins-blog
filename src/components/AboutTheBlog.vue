@@ -5,14 +5,13 @@
       <div style="max-width: 700px; margin: 0 auto;">
         <hr style="max-width: 100px; color: rgba(0, 0, 0, 0.5);" />
         <p class="my-2">
-          An adventure publication crafted for those wanderlusting, thrill seeking,
-          mountain lovers who want to build a location independent lifestyle.
+          An adventure publication crafted for rock climbers and mountain lovers who want to travel the world &amp; build a location independent lifestyle.
 
-          <br /><br>Here you'll find tips on how to learn a creative or digital skill (like coding), build a portfolio and become a freelancer, work remotely and climb around the world, and even start your own online business from scratch 🚀
+          <br /><br>Here you'll find tips on how to learn a creative or digital skill (like coding), build a portfolio and become a freelancer, work remotely or even start your own online business from scratch, all while travelling (<em>climbing</em>) around the world 🚀
           <a
             class="text-link"
             href="https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209"
-          >Click here to join the digital dirtbag community</a>
+          >Click here to join the digital dirtbag community today!</a>
         </p>
         <!-- 
         * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.

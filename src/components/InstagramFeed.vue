@@ -44,7 +44,7 @@ export default {
     topPosts () {
       return (posts, numPosts) => {
         const allPosts = [ ...posts ]
-        return allPosts.slice(6, numPosts + 5)
+        return allPosts.slice(0, 5)
       }
     }
   }
