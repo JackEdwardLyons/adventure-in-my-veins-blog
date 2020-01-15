@@ -1,8 +1,6 @@
 <template>
   <section class="vh-full">
     <div class="grid-container">
-
-
       <g-link
         :to="post.node.path"
         v-for="(post, index) in posts"
@@ -47,7 +45,7 @@ export default {
   position: relative;
 
   grid-gap: 1.5rem;
-  padding: .5rem 1.5rem;
+  padding: 0.5rem 1.5rem;
 
   .logo {
     position: absolute;

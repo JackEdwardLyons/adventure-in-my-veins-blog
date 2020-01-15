@@ -129,4 +129,4 @@ _Or alternatively drop him a line at_ _**info@athletebychoice.com** if you would
 
 _Duncan is proudly supported by_ [**_Goal Zero_**](www.goalzero.com)_,_ [**_Evolv_**](www.evolvsports.com) _&_ [**_Climbing Anchors_**](https://www.climbinganchors.com.au)_._
 
-If you think you would be a great fit for the Digital Dirtbag series or know someone who might be interested in sharing their story then send me a message on Instagram [**@adventureinmyveins**](https://www.instagram.com/adventureinmyveins/)\*\*\*\*
+If you think you would be a great fit for the Digital Dirtbag series or know someone who might be interested in sharing their story then send me a message on Instagram [**@adventureinmyveins**](https://www.instagram.com/adventureinmyveins/)
