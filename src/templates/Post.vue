@@ -144,6 +144,10 @@ query Post ($id: ID!) {
       }
     }
 
+    h5 {
+      line-height: 1.4;
+    }
+
     p:first-of-type {
       font-size: 1.2em;
       color: var(--title-color);
