@@ -11,7 +11,7 @@
           <a
             class="text-link"
             href="https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209"
-          >Click here to join the digital dirtbag community today!</a>
+          >Click here to join the digital dirtbag community</a>
         </p>
         <!-- 
         * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.

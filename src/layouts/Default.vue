@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <section id="app">
     <main class="main">
       <slot />
     </main>
@@ -10,7 +10,7 @@
     </div>
 
     <the-footer />
-  </div>
+  </section>
 </template>
 
 <script>

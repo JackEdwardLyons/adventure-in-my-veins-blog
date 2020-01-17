@@ -30,7 +30,7 @@ I never imagined it would turn into a career. I started working in a public midd
 _Bogue and his students having some fun in English class!._
 
 
-## _Q: Can you tell us a little bit more about the lifestyle, the culture and expat scene in South Korea?_
+## _Q: What is the lifestyle, the culture and expat scene like in South Korea?_
 
 I came to Korea because I had a lot of friends and even a cousin of mine that lived here and loved it. I found an expat climbing website and knew, that even if it sucked, I could climb a lot and save tons of money.
 
@@ -38,7 +38,7 @@ I came to Korea because I had a lot of friends and even a cousin of mine that li
 
 The expat scene here is whatever you would like to make of it. It seems that there are clubs and groups for just about any hobby. I know friends that are into clubbing, swing dancing, art, music, festivals, climbing, kayaking, ultimate frisbee, running, just about everything really. With the advent of Facebook group pages, meeting people here that share your interest is really easy. Everyone has similar time off and lots of disposable income, so the expat scene is a ridiculously good time!!
 
-## _Q: What is the climbing scene/environment like across the country?_
+## _Q: Does South Korea have much of climbing scene across the country?_
 
 For such a small country, Korea has a lot of climbing options. Mountains make up 70% of the country. In my city alone there are 8 climbing areas (sport, trad & bouldering) that are all accessible via public transportation and a short hike.
 

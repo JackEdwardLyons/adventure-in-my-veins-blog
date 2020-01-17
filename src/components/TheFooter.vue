@@ -4,6 +4,10 @@
       <g-image src="/images/AIMV-logo-white.png" alt="AIMV logo" class="aimv-logo mt-4" />
       <!-- <p class="text-center">Built with &hearts; by Jack Lyons.</p> -->
     </span>
+
+    <a class="built-by" href="https://www.jacklyons.me" target="_blank">
+      Built by Jack <g-image src="https://jacklyons.me/wp-content/uploads/2016/11/LyonsJack.jpg-e1478397366970.jpeg" alt="A photo of Jack" class="jack-avatar" />
+    </a>
   </footer>
 </template>
 
@@ -50,7 +54,45 @@
       ),
       var(--footer-bg);
   }
+
+  .built-by {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: snow;
+    color: #444444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .25rem .5rem; 
+    font-weight: bold;
+    z-index: 100;
+    border-radius: 2px;
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover {
+      background: darkslategrey;
+      color: white;
+    }
+
+    .jack-avatar {
+      max-width: 40px;
+      border-radius: 50%;
+      padding: .25rem;
+    }
+
+    @media screen and (max-width: 400px) {
+      font-size: .75rem;
+
+      .jack-avatar {
+        max-width: 30px;
+        padding: .25rem;
+      }
+    }
+  }
 }
+
 // Light mode fade in
 body[data-theme="light"] {
   .footer {
