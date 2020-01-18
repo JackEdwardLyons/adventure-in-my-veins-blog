@@ -8,10 +8,9 @@
           An adventure publication crafted for rock climbers and mountain lovers who want to travel the world &amp; build a location independent lifestyle.
 
           <br /><br>Here you'll find tips on how to learn a creative or digital skill (like coding), build a portfolio and become a freelancer, work remotely or even start your own online business from scratch, all while travelling (<em>climbing</em>) around the world 🚀
-          <a
-            class="text-link"
-            href="https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209"
-          >Click here to join the digital dirtbag community</a>
+          <g-link class="text-link" to="/subscribe">
+            Click here to join the digital dirtbag community
+          </g-link>
         </p>
         <!-- 
         * Dirtbag: Someone who forgoes material comforts and defies societal norms in pursuit of a nomadic mountaineering lifestyle.

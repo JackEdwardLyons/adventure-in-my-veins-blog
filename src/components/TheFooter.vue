@@ -64,7 +64,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: .25rem .5rem; 
+    padding: 0 .5rem;
+    font-size: .75rem;
     font-weight: bold;
     z-index: 100;
     border-radius: 2px;
@@ -83,7 +84,7 @@
     }
 
     @media screen and (max-width: 400px) {
-      font-size: .75rem;
+      font-size: .5rem;
 
       .jack-avatar {
         max-width: 30px;

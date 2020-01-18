@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.d-block {
+  display: block;
+}
+
 .space-bottom {
   margin-bottom: var(--space);
 }
@@ -34,6 +38,15 @@
   margin-bottom: 2rem;
 }
 
+.mt-3 {
+  margin-top: 3rem;
+}
+
 .mt-4 {
   margin-top: 4rem;
+}
+
+.my-4 {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }

@@ -23,7 +23,7 @@
 
 <page-query>
 query Blog($page: Int) {
-	posts: allPost(perPage: 6, page: $page) @paginate {
+	posts: allPost(perPage: 10, page: $page) @paginate {
 		pageInfo {
 			totalPages
 			currentPage

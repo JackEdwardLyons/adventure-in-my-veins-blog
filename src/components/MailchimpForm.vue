@@ -1,8 +1,8 @@
 <template>
   <section class="shadow-md mailchimp">
-    <h4 class="text-center m-0" v-text="'Join the AIMV Community today!'" />
+    <h4 class="text-center m-0 my-1" v-text="subscribeMsg" />
 
-    <div class="centered">
+    <div class="centered" v-if="animated">
       <vue-typed-js
         :strings="typedStrings"
         :backSpeed="50"
@@ -28,26 +28,24 @@
       target="_blank"
       v-on:submit="submitForm"
     >
-    <div class="input-flex">
-      <label for="mce-FNAME" hidden>First Name</label>
-      <input id="mce-FNAME" name="FNAME" type="text" v-model="firstName" placeholder="First Name" />
-      <label for="mce-FNAME" hidden>Last Name</label>
-      <input id="mce-LNAME" name="LNAME" type="text" v-model="lastName" placeholder="Last Name" />
-
-    </div>
-    <div class="input-flex">
-      <label for="mce-EMAIL" hidden>Email Address</label>
-      <input
-        id="mce-EMAIL"
-        name="EMAIL"
-        type="email"
-        :placeholder="placeholder"
-        v-model="email"
-        required
-      />
-      <button type="submit" v-text="'Subscribe'" />
-
-    </div>
+      <div class="input-flex">
+        <label for="mce-FNAME" hidden>First Name</label>
+        <input id="mce-FNAME" name="FNAME" type="text" v-model="firstName" placeholder="First Name" />
+        <label for="mce-FNAME" hidden>Last Name</label>
+        <input id="mce-LNAME" name="LNAME" type="text" v-model="lastName" placeholder="Last Name" />
+      </div>
+      <div class="input-flex">
+        <label for="mce-EMAIL" hidden>Email Address</label>
+        <input
+          id="mce-EMAIL"
+          name="EMAIL"
+          type="email"
+          :placeholder="placeholder"
+          v-model="email"
+          required
+        />
+        <button type="submit" v-text="'Subscribe'" />
+      </div>
     </form>
   </section>
 </template>
@@ -64,7 +62,7 @@ export default {
       message: null,
       email: "",
       firstName: "",
-      lastName: ''
+      lastName: ""
     };
   },
   props: {
@@ -85,6 +83,14 @@ export default {
       default:
         "https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209",
       required: false
+    },
+    animated: {
+      type: Boolean,
+      default: true
+    },
+    subscribeMsg: {
+      type: String,
+      default: "Join the Digital Dirtbag Community today!"
     }
   },
   computed: {
@@ -127,8 +133,16 @@ $brandColor: #5c97bf;
     display: flex;
     width: 100%;
 
+    #mce-LNAME {
+      margin-left: 1rem;
+    }
+
     @media screen and (max-width: 769px) {
       flex-wrap: wrap;
+
+      #mce-LNAME {
+        margin-left: 0;
+      }
     }
   }
 

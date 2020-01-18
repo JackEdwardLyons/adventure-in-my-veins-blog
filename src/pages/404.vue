@@ -2,7 +2,7 @@
   <main class="center-content">
     <div class="flex-column wrapper">
       <h1>404 page not found 😱</h1>
-      <p>Don't worry, simply check the url and try again.</p>
+      <p>Maybe check the url for a typo and try again.</p>
       <p>
         Otherwise,
         <a href="/">click here to go home</a>, or sign up below to get notified when a new "digital dirtbag" article is released.
@@ -14,6 +14,7 @@
 
 <script>
 import MailchimpForm from "@/components/MailchimpForm";
+
 export default {
   components: {
     MailchimpForm
