@@ -43,13 +43,13 @@
 
           <p>
             <strong>Adventure In My Veins</strong> was created out my own struggles to figuring out financial and locational independence. 
-            I built this site for anyone out there who wants to learn from experts across various industries, and from my first-hand experience in
+            I built this site for anyone out there who wants to learn from experts across various digital and creative industries, and my first-hand experience in
             building a successful freelancing business.
           </p>
 
           <p>
             If you want to learn how to become a <strong><em>Digital Dirtbag</em></strong> then you’ve come to the perfect place. 
-            So let me help you out. I'd be happy to take show you the <em>most important</em> steps you need to take to master financial, and location freedom.
+            So let me help you out. I'd be happy to take show you the <em>most important</em> steps you need to take to master location and financial freedom.
           </p>
 
           <ul>
@@ -68,12 +68,13 @@
           
           <p>
             To kick things off, I'd love to send you my <strong>DIY Guide To Ditial Dirtbagging</strong>. 
-            Just let me know where to send it by entering your details below - then you'll be subscribed to the Digital Dirtbag Community.
+            Just let me know where to send it by entering your details below - then you'll be subscribed to 
+            the Digital Dirtbag Community where you'll get access to tons of other great tools to crush it as a Digital Dirtbag.
           </p>
         </div>
 
         <article class="mt-3">
-          <mailchimp-form :animated="false" />
+          <mailchimp-form :animated="false" subscribeMsg="Send me my DIY Guide To Ditial Dirtbagging!" />
         </article>
       </div>
     </article>
