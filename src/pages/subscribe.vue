@@ -74,7 +74,7 @@
         </div>
 
         <article class="mt-3">
-          <mailchimp-form :animated="false" subscribeMsg="Send me my DIY Guide To Ditial Dirtbagging!" />
+          <mailchimp-form :animated="false" />
         </article>
       </div>
     </article>

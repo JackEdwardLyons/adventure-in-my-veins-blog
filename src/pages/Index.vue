@@ -14,7 +14,7 @@
       <ClientOnly>
         <infinite-loading @infinite="infiniteHandler" spinner="spiral">
           <div slot="no-more">  </div>
-          <div slot="no-results">Sorry, no posts yet 🥶</div>
+          <div slot="no-results"> </div>
         </infinite-loading>
       </ClientOnly>
     </section>
