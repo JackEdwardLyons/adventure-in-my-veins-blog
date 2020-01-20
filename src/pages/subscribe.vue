@@ -56,7 +56,7 @@
             <li>Want to learn how to launch a website? I've got tons of advice to help with that.</li>
             <li>Are you serious about your career but still want to travel, and climb often? Yep, that's entirely possible. I'll show you how.</li>
             <li>Like to take the plunge and become a freelancer? I can help you build a portfolio and attract high-paying clients.</li>
-            <li>Don't know how where to go, where to stay and what to climb on your travels? Our <strong style="text-decoration: underline; ">Digital Dirtbag Community</strong> has got you covered!</li>
+            <li>Want to connect with like-minds and get support and connect with other climbers from around the world? Our <strong style="text-decoration: underline; ">Digital Dirtbag Community</strong> has got you covered!</li>
           </ul>
 
           <p>By joining the Digital Dirtbag Community you'll have access to all of this information and so much more!</p>
