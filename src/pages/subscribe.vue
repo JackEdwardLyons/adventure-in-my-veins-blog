@@ -65,12 +65,12 @@
             And when you get the exact right information, you can immediately begin to take action. 
             And that’s what’s going to get you out of your dead-end job and into the mountains! 🏔
           </p>
-          
+<!--           
           <p>
             To kick things off, I'd love to send you my <strong>DIY Guide To Ditial Dirtbagging</strong>. 
             Just let me know where to send it by entering your details below - then you'll be subscribed to 
             the Digital Dirtbag Community where you'll get access to tons of other great tools to crush it as a Digital Dirtbag.
-          </p>
+          </p> -->
         </div>
 
         <article class="mt-3">
