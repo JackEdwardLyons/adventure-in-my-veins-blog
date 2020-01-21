@@ -37,7 +37,7 @@
           <p>
             <strong><em>What if you could travel (climb) around the world on your own terms?</em></strong><br> 
             Imagine working your own hours online as a freelancer, or selling products from your 
-            online shop. You could live minutes from a world-class crag in Thailand, China, Greece, Spain,
+            online shop. You could live minutes from a world-class crag in Thailand, China, Greece or Spain,
             where a months rent could easily be made in a single working day! I call this <strong><em>Digital Dirtbagging</em></strong>. 
           </p>
 
@@ -53,13 +53,13 @@
           </p>
 
           <ul>
-            <li>Want to learn how to launch a website? I've got tons of advice to help with that.</li>
+            <li>Want to learn how to launch a website for your business / blog or personal brand? I've got tons of advice to help with that.</li>
             <li>Are you serious about your career but still want to travel, and climb often? Yep, that's entirely possible. I'll show you how.</li>
             <li>Like to take the plunge and become a freelancer? I can help you build a portfolio and attract high-paying clients.</li>
-            <li>Want to connect with like-minds and get support and connect with other climbers from around the world? Our <strong style="text-decoration: underline; ">Digital Dirtbag Community</strong> has got you covered!</li>
+            <li>Want to connect with like-minds from around the world? The <strong style="text-decoration: underline; ">Digital Dirtbag Community</strong> is a great place to start!</li>
           </ul>
 
-          <p>By joining the Digital Dirtbag Community you'll have access to all of this information and so much more!</p>
+          <p>By joining the Digital Dirtbag Community you'll have access to all of this and so much more!</p>
 
           <p>
             And when you get the exact right information, you can immediately begin to take action. 
@@ -74,7 +74,7 @@
         </div>
 
         <article class="mt-3">
-          <mailchimp-form :animated="false" />
+          <mailchimp-form  />
         </article>
       </div>
     </article>
