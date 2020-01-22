@@ -58,6 +58,7 @@ export default {
 .main {
   margin: 0 auto;
   position: relative;
+  max-width: 1600px;
 }
 
 .overlap-on-footer {

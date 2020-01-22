@@ -54,13 +54,13 @@
           </p>
 
           <p>
-            So heres the pitch: I'm planning to build a site and a community where like-minded 
-            Digital Dirtbags can connect, share stories, give advice and help each other out.
+            <strong>So heres the pitch:</strong> I'm working to build a site and a community where like-minded 
+            Digital Dirtbags can connect, share stories, provide advice and to help each other out.
           </p>
           <p>
-            But even if you're NOT a Digital Dirtbag, you're still welcome! 
-            I'd be happy to take show you the <em>most important</em> steps you 
-            need to take to master location and financial freedom.
+            But even if you're NOT a Digital Dirtbag but still super keen to learn more, you're still welcome! 
+            I'd be happy to take show you the <em>most important</em> steps you need to take to master location 
+            and financial freedom.
           </p>
 
           <ul>
@@ -70,7 +70,7 @@
             <li>Want to connect with other climbers from around the world? The <strong style="text-decoration: underline; ">Digital Dirtbag Community</strong> is a great place to start!</li>
           </ul>
 
-          <p>By joining the Digital Dirtbag Community you'll have access to all of this and so much more!</p>
+          <p>By joining the Digital Dirtbag Community you'll have access to all of this, plus there's a ton more in the works!</p>
 
           <p>
             And when you get the exact right information, you can immediately begin to take action. 
