@@ -12,7 +12,7 @@
     <a class="built-by" href="https://www.jacklyons.me" target="_blank">
       Built by Jack
       <g-image
-        src="tinyurl.com/e9aytpss"
+        src="https://www.tinyurl.com/e9aytpss"
         alt="A photo of Jack"
         class="jack-avatar"
       />

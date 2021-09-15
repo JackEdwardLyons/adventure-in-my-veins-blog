@@ -6,7 +6,6 @@
 
     <div class="overlap-on-footer">
       <!-- <h2 class="text-center type--raleway px-2">Follow Adventure In My Veins on Instagram 👇</h2> -->
-      <!-- <instagram-feed /> -->
     </div>
 
     <the-footer />
@@ -14,25 +13,23 @@
 </template>
 
 <script>
-import InstagramFeed from "~/components/InstagramFeed";
 import TheFooter from "~/components/TheFooter";
 import TheHeader from "~/components/TheHeader";
 export default {
   props: {
-    showLogo: { default: true }
+    showLogo: { default: true },
   },
   components: {
-    InstagramFeed,
     TheFooter,
-    TheHeader
-  }
+    TheHeader,
+  },
 };
 </script>
 
 <style lang="scss">
 .header {
   background-color: var(--bg-color);
-  opacity: .7;
+  opacity: 0.7;
   position: sticky;
   display: flex;
   justify-content: space-between;

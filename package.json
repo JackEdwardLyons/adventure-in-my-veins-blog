@@ -11,7 +11,6 @@
     "@gridsome/remark-prismjs": "^0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.4.0",
-    "@zefman/gridsome-source-instagram": "^0.1.2",
     "gridsome": "^0.7.11",
     "gridsome-plugin-netlify-cms": "^1.0.9",
     "netlify-cms": "^2.9.7",
