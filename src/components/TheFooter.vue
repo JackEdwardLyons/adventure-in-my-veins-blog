@@ -1,12 +1,21 @@
 <template functional>
   <footer class="footer">
     <span class="footer__logo">
-      <g-image src="/images/AIMV-logo-white.png" alt="AIMV logo" class="aimv-logo mt-4" />
+      <g-image
+        src="/images/AIMV-logo-white.png"
+        alt="AIMV logo"
+        class="aimv-logo mt-4"
+      />
       <!-- <p class="text-center">Built with &hearts; by Jack Lyons.</p> -->
     </span>
 
     <a class="built-by" href="https://www.jacklyons.me" target="_blank">
-      Built by Jack <g-image src="https://jacklyons.me/wp-content/uploads/2016/11/LyonsJack.jpg-e1478397366970.jpeg" alt="A photo of Jack" class="jack-avatar" />
+      Built by Jack
+      <g-image
+        src="tinyurl.com/e9aytpss"
+        alt="A photo of Jack"
+        class="jack-avatar"
+      />
     </a>
   </footer>
 </template>
@@ -64,8 +73,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 .5rem;
-    font-size: .75rem;
+    padding: 0 0.5rem;
+    font-size: 0.75rem;
     font-weight: bold;
     z-index: 100;
     border-radius: 2px;
@@ -80,15 +89,15 @@
     .jack-avatar {
       max-width: 40px;
       border-radius: 50%;
-      padding: .25rem;
+      padding: 0.25rem;
     }
 
     @media screen and (max-width: 400px) {
-      font-size: .5rem;
+      font-size: 0.5rem;
 
       .jack-avatar {
         max-width: 30px;
-        padding: .25rem;
+        padding: 0.25rem;
       }
     }
   }

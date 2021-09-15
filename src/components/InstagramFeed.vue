@@ -2,14 +2,21 @@
   <section class="instagram-feed flex-grid thirds justify-center">
     <!-- <h1>Instagram Photos</h1> -->
     <div
-      v-for="(edge) in topPosts($static.photos.edges, 6)"
+      v-for="edge in topPosts($static.photos.edges, 6)"
       :key="edge.node.id"
       class="column instagram-post"
     >
-      <g-link :href="'https://instagram.com/p/' + edge.node.shortcode" target="_blank" rel="noopener">
+      <g-link
+        :href="'https://instagram.com/p/' + edge.node.shortcode"
+        target="_blank"
+        rel="noopener"
+      >
         <g-image
           :src="edge.node.display_url"
-          :alt="'Instagram Photo: ' + edge.node.edge_media_to_caption.edges[0].node.text"
+          :alt="
+            'Instagram Photo: ' +
+              edge.node.edge_media_to_caption.edges[0].node.text
+          "
           class="photo shadow-lg"
         />
       </g-link>
@@ -23,7 +30,6 @@ query {
     edges {
       node {
         id
-        shortcode
         display_url
         edge_media_to_caption {
           edges {
@@ -41,13 +47,13 @@ query {
 <script>
 export default {
   computed: {
-    topPosts () {
+    topPosts() {
       return (posts, numPosts) => {
-        const allPosts = [ ...posts ]
-        return allPosts.slice(0, 5)
-      }
-    }
-  }
+        const allPosts = [...posts];
+        return allPosts.slice(0, 5);
+      };
+    },
+  },
 };
 </script>
 
