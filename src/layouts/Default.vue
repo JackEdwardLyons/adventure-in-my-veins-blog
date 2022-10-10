@@ -8,7 +8,7 @@
       <!-- <h2 class="text-center type--raleway px-2">Follow Adventure In My Veins on Instagram 👇</h2> -->
     </div>
 
-    <the-footer />
+    <!-- <the-footer /> -->
   </section>
 </template>
 
